@@ -1,0 +1,114 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="CINEGRADE LAB v1.0">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    crs:Version="15.0"
+    crs:ProcessVersion="11.0"
+    crs:Exposure2012="0.95"
+    crs:Contrast2012="-40"
+    crs:Highlights2012="-35"
+    crs:Shadows2012="55"
+    crs:Whites2012="35"
+    crs:Blacks2012="40"
+    crs:Texture="-22"
+    crs:Clarity2012="-35"
+    crs:Dehaze="-35"
+    crs:Vibrance="-45"
+    crs:Saturation="-40"
+    crs:ParametricShadows="0"
+    crs:ParametricDarks="0"
+    crs:ParametricLights="0"
+    crs:ParametricHighlights="0"
+    crs:ParametricShadowSplit="25"
+    crs:ParametricMidtoneSplit="50"
+    crs:ParametricHighlightSplit="75"
+    crs:Sharpness="50"
+    crs:SharpenRadius="1.2000000000000002"
+    crs:SharpenDetail="40"
+    crs:SharpenEdgeMasking="60"
+    crs:LuminanceSmoothing="0"
+    crs:ColorNoiseReduction="25"
+    crs:HueAdjustmentRed="9"
+    crs:HueAdjustmentOrange="9"
+    crs:HueAdjustmentYellow="-18"
+    crs:HueAdjustmentGreen="27"
+    crs:HueAdjustmentAqua="14"
+    crs:HueAdjustmentBlue="-14"
+    crs:HueAdjustmentPurple="14"
+    crs:HueAdjustmentMagenta="19"
+    crs:SaturationAdjustmentRed="-40"
+    crs:SaturationAdjustmentOrange="-40"
+    crs:SaturationAdjustmentYellow="-45"
+    crs:SaturationAdjustmentGreen="-45"
+    crs:SaturationAdjustmentAqua="-40"
+    crs:SaturationAdjustmentBlue="-45"
+    crs:SaturationAdjustmentPurple="-40"
+    crs:SaturationAdjustmentMagenta="-40"
+    crs:LuminanceAdjustmentRed="35"
+    crs:LuminanceAdjustmentOrange="35"
+    crs:LuminanceAdjustmentYellow="35"
+    crs:LuminanceAdjustmentGreen="22"
+    crs:LuminanceAdjustmentAqua="22"
+    crs:LuminanceAdjustmentBlue="35"
+    crs:LuminanceAdjustmentPurple="22"
+    crs:LuminanceAdjustmentMagenta="22"
+    crs:SplitToningShadowHue="230"
+    crs:SplitToningShadowSaturation="16"
+    crs:SplitToningHighlightHue="75"
+    crs:SplitToningHighlightSaturation="18"
+    crs:SplitToningBalance="55"
+    crs:ColorGradeShadowLum="40"
+    crs:ColorGradeShadowHue="230"
+    crs:ColorGradeShadowSat="16"
+    crs:ColorGradeMidtoneLum="27"
+    crs:ColorGradeMidtoneHue="75"
+    crs:ColorGradeMidtoneSat="9"
+    crs:ColorGradeHighlightLum="40"
+    crs:ColorGradeHighlightHue="80"
+    crs:ColorGradeHighlightSat="16"
+    crs:ColorGradeBlending="50"
+    crs:ColorGradeGlobalLum="0"
+    crs:ColorGradeGlobalHue="0"
+    crs:ColorGradeGlobalSat="0"
+    crs:ColorGradeShadowsColor="230, 16"
+    crs:ColorGradeMidtonesColor="75, 9"
+    crs:ColorGradeHighlightsColor="80, 16"
+    crs:ColorGradeBalance="0.45"
+    crs:GrainAmount="25"
+    crs:GrainSize="32"
+    crs:GrainFrequency="80"
+    crs:PostCropVignetteAmount="-17"
+    crs:PostCropVignetteMidpoint="85"
+    crs:PostCropVignetteFeather="100"
+    crs:PostCropVignetteRoundness="0"
+    crs:PostCropVignetteStyle="1"
+    crs:ToneCurveName2012="Custom"
+    crs:ToneCurvePV2012="0/27, 32/60, 64/90, 128/130, 192/188, 255/236"
+    crs:ToneCurvePV2012Red="0/27, 32/60, 64/90, 128/130, 192/188, 255/236"
+    crs:ToneCurvePV2012Green="0/27, 32/60, 64/90, 128/130, 192/188, 255/236"
+    crs:ToneCurvePV2012Blue="0/27, 32/60, 64/90, 128/130, 192/188, 255/236"
+    crs:HasSettings="True"
+    crs:CropConstrainToWarp="0">
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Snow Whisper</rdf:li>
+    </rdf:Alt>
+   </dc:title>
+   <dc:description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Clean, bright, muted, airy aesthetic inspired by Scandinavian design — CINEGRADE LAB Premium Preset. Mood: Calm, airy, minimal. Variant 4.</rdf:li>
+    </rdf:Alt>
+   </dc:description>
+   <dc:subject>
+    <rdf:Bag>
+     <rdf:li>cinematic</rdf:li>
+     <rdf:li>minimal scandinavian</rdf:li>
+     <rdf:li>cinegrade</rdf:li>
+     <rdf:li>premium</rdf:li>
+     <rdf:li>calm</rdf:li>
+    </rdf:Bag>
+   </dc:subject>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

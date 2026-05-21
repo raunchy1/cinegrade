@@ -1,0 +1,114 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="CINEGRADE LAB v1.0">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    crs:Version="15.0"
+    crs:ProcessVersion="11.0"
+    crs:Exposure2012="0.45"
+    crs:Contrast2012="-25"
+    crs:Highlights2012="-30"
+    crs:Shadows2012="35"
+    crs:Whites2012="-16"
+    crs:Blacks2012="20"
+    crs:Texture="-16"
+    crs:Clarity2012="-25"
+    crs:Dehaze="-14"
+    crs:Vibrance="20"
+    crs:Saturation="-16"
+    crs:ParametricShadows="0"
+    crs:ParametricDarks="0"
+    crs:ParametricLights="0"
+    crs:ParametricHighlights="0"
+    crs:ParametricShadowSplit="25"
+    crs:ParametricMidtoneSplit="50"
+    crs:ParametricHighlightSplit="75"
+    crs:Sharpness="45"
+    crs:SharpenRadius="1.1"
+    crs:SharpenDetail="30"
+    crs:SharpenEdgeMasking="45"
+    crs:LuminanceSmoothing="0"
+    crs:ColorNoiseReduction="25"
+    crs:HueAdjustmentRed="10"
+    crs:HueAdjustmentOrange="7"
+    crs:HueAdjustmentYellow="-10"
+    crs:HueAdjustmentGreen="26"
+    crs:HueAdjustmentAqua="12"
+    crs:HueAdjustmentBlue="-12"
+    crs:HueAdjustmentPurple="14"
+    crs:HueAdjustmentMagenta="19"
+    crs:SaturationAdjustmentRed="-7"
+    crs:SaturationAdjustmentOrange="-12"
+    crs:SaturationAdjustmentYellow="-16"
+    crs:SaturationAdjustmentGreen="-30"
+    crs:SaturationAdjustmentAqua="-16"
+    crs:SaturationAdjustmentBlue="-25"
+    crs:SaturationAdjustmentPurple="-7"
+    crs:SaturationAdjustmentMagenta="-7"
+    crs:LuminanceAdjustmentRed="18"
+    crs:LuminanceAdjustmentOrange="25"
+    crs:LuminanceAdjustmentYellow="18"
+    crs:LuminanceAdjustmentGreen="7"
+    crs:LuminanceAdjustmentAqua="7"
+    crs:LuminanceAdjustmentBlue="-7"
+    crs:LuminanceAdjustmentPurple="16"
+    crs:LuminanceAdjustmentMagenta="18"
+    crs:SplitToningShadowHue="330"
+    crs:SplitToningShadowSaturation="12"
+    crs:SplitToningHighlightHue="51"
+    crs:SplitToningHighlightSaturation="21"
+    crs:SplitToningBalance="55"
+    crs:ColorGradeShadowLum="16"
+    crs:ColorGradeShadowHue="330"
+    crs:ColorGradeShadowSat="12"
+    crs:ColorGradeMidtoneLum="12"
+    crs:ColorGradeMidtoneHue="21"
+    crs:ColorGradeMidtoneSat="10"
+    crs:ColorGradeHighlightLum="21"
+    crs:ColorGradeHighlightHue="51"
+    crs:ColorGradeHighlightSat="21"
+    crs:ColorGradeBlending="50"
+    crs:ColorGradeGlobalLum="0"
+    crs:ColorGradeGlobalHue="0"
+    crs:ColorGradeGlobalSat="0"
+    crs:ColorGradeShadowsColor="330, 12"
+    crs:ColorGradeMidtonesColor="21, 10"
+    crs:ColorGradeHighlightsColor="51, 21"
+    crs:ColorGradeBalance="0.4"
+    crs:GrainAmount="26"
+    crs:GrainSize="31"
+    crs:GrainFrequency="65"
+    crs:PostCropVignetteAmount="-16"
+    crs:PostCropVignetteMidpoint="65"
+    crs:PostCropVignetteFeather="85"
+    crs:PostCropVignetteRoundness="0"
+    crs:PostCropVignetteStyle="1"
+    crs:ToneCurveName2012="Custom"
+    crs:ToneCurvePV2012="0/12, 32/36, 64/72, 128/128, 192/192, 255/242"
+    crs:ToneCurvePV2012Red="0/12, 32/36, 64/72, 128/128, 192/192, 255/242"
+    crs:ToneCurvePV2012Green="0/12, 32/36, 64/72, 128/128, 192/192, 255/242"
+    crs:ToneCurvePV2012Blue="0/12, 32/36, 64/72, 128/128, 192/192, 255/242"
+    crs:HasSettings="True"
+    crs:CropConstrainToWarp="0">
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Ethereal Love</rdf:li>
+    </rdf:Alt>
+   </dc:title>
+   <dc:description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Soft, romantic, warm highlights with pastel tones for wedding photography — CINEGRADE LAB Premium Preset. Mood: Romantic, ethereal, tender. Variant 2.</rdf:li>
+    </rdf:Alt>
+   </dc:description>
+   <dc:subject>
+    <rdf:Bag>
+     <rdf:li>cinematic</rdf:li>
+     <rdf:li>dreamy wedding</rdf:li>
+     <rdf:li>cinegrade</rdf:li>
+     <rdf:li>premium</rdf:li>
+     <rdf:li>romantic</rdf:li>
+    </rdf:Bag>
+   </dc:subject>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

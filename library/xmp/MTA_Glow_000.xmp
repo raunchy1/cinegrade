@@ -1,0 +1,114 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="CINEGRADE LAB v1.0">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    crs:Version="15.0"
+    crs:ProcessVersion="11.0"
+    crs:Exposure2012="0.0"
+    crs:Contrast2012="25"
+    crs:Highlights2012="-25"
+    crs:Shadows2012="-15"
+    crs:Whites2012="10"
+    crs:Blacks2012="-15"
+    crs:Texture="25"
+    crs:Clarity2012="35"
+    crs:Dehaze="15"
+    crs:Vibrance="30"
+    crs:Saturation="10"
+    crs:ParametricShadows="0"
+    crs:ParametricDarks="0"
+    crs:ParametricLights="0"
+    crs:ParametricHighlights="0"
+    crs:ParametricShadowSplit="25"
+    crs:ParametricMidtoneSplit="50"
+    crs:ParametricHighlightSplit="75"
+    crs:Sharpness="65"
+    crs:SharpenRadius="1.2"
+    crs:SharpenDetail="35"
+    crs:SharpenEdgeMasking="55"
+    crs:LuminanceSmoothing="0"
+    crs:ColorNoiseReduction="25"
+    crs:HueAdjustmentRed="15"
+    crs:HueAdjustmentOrange="-10"
+    crs:HueAdjustmentYellow="-20"
+    crs:HueAdjustmentGreen="30"
+    crs:HueAdjustmentAqua="15"
+    crs:HueAdjustmentBlue="-20"
+    crs:HueAdjustmentPurple="25"
+    crs:HueAdjustmentMagenta="30"
+    crs:SaturationAdjustmentRed="25"
+    crs:SaturationAdjustmentOrange="20"
+    crs:SaturationAdjustmentYellow="15"
+    crs:SaturationAdjustmentGreen="10"
+    crs:SaturationAdjustmentAqua="30"
+    crs:SaturationAdjustmentBlue="25"
+    crs:SaturationAdjustmentPurple="35"
+    crs:SaturationAdjustmentMagenta="40"
+    crs:LuminanceAdjustmentRed="-5"
+    crs:LuminanceAdjustmentOrange="5"
+    crs:LuminanceAdjustmentYellow="-10"
+    crs:LuminanceAdjustmentGreen="-10"
+    crs:LuminanceAdjustmentAqua="5"
+    crs:LuminanceAdjustmentBlue="-5"
+    crs:LuminanceAdjustmentPurple="10"
+    crs:LuminanceAdjustmentMagenta="10"
+    crs:SplitToningShadowHue="260"
+    crs:SplitToningShadowSaturation="30"
+    crs:SplitToningHighlightHue="50"
+    crs:SplitToningHighlightSaturation="25"
+    crs:SplitToningBalance="55"
+    crs:ColorGradeShadowLum="-20"
+    crs:ColorGradeShadowHue="260"
+    crs:ColorGradeShadowSat="25"
+    crs:ColorGradeMidtoneLum="-5"
+    crs:ColorGradeMidtoneHue="330"
+    crs:ColorGradeMidtoneSat="15"
+    crs:ColorGradeHighlightLum="8"
+    crs:ColorGradeHighlightHue="50"
+    crs:ColorGradeHighlightSat="22"
+    crs:ColorGradeBlending="50"
+    crs:ColorGradeGlobalLum="0"
+    crs:ColorGradeGlobalHue="0"
+    crs:ColorGradeGlobalSat="0"
+    crs:ColorGradeShadowsColor="260, 25"
+    crs:ColorGradeMidtonesColor="330, 15"
+    crs:ColorGradeHighlightsColor="50, 22"
+    crs:ColorGradeBalance="0.6"
+    crs:GrainAmount="15"
+    crs:GrainSize="30"
+    crs:GrainFrequency="55"
+    crs:PostCropVignetteAmount="-20"
+    crs:PostCropVignetteMidpoint="45"
+    crs:PostCropVignetteFeather="60"
+    crs:PostCropVignetteRoundness="0"
+    crs:PostCropVignetteStyle="1"
+    crs:ToneCurveName2012="Custom"
+    crs:ToneCurvePV2012="0/0, 32/18, 64/50, 128/128, 192/200, 255/255"
+    crs:ToneCurvePV2012Red="0/0, 32/18, 64/50, 128/128, 192/200, 255/255"
+    crs:ToneCurvePV2012Green="0/0, 32/18, 64/50, 128/128, 192/200, 255/255"
+    crs:ToneCurvePV2012Blue="0/0, 32/18, 64/50, 128/128, 192/200, 255/255"
+    crs:HasSettings="True"
+    crs:CropConstrainToWarp="0">
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">MTA Glow</rdf:li>
+    </rdf:Alt>
+   </dc:title>
+   <dc:description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Stylized, dramatic, high-impact looks inspired by music video grading — CINEGRADE LAB Premium Preset. Mood: Dynamic, stylized, intense. Variant 0.</rdf:li>
+    </rdf:Alt>
+   </dc:description>
+   <dc:subject>
+    <rdf:Bag>
+     <rdf:li>cinematic</rdf:li>
+     <rdf:li>music video looks</rdf:li>
+     <rdf:li>cinegrade</rdf:li>
+     <rdf:li>premium</rdf:li>
+     <rdf:li>dynamic</rdf:li>
+    </rdf:Bag>
+   </dc:subject>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

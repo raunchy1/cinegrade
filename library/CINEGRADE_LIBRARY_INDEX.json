@@ -1,0 +1,3289 @@
+{
+  "library_name": "CINEGRADE LAB Premium Collection",
+  "version": "1.0.0",
+  "generated_at": "2026-05-21T16:12:09.652570",
+  "total_xmp_presets": 125,
+  "total_cube_luts": 125,
+  "total_categories": 25,
+  "categories": [
+    {
+      "id": "luxury_editorial",
+      "name": "Luxury Editorial",
+      "description": "Rich blacks, soft contrast, warm skin tones for high-end editorial photography",
+      "mood": "Sophisticated, elegant, polished",
+      "preset_count": 5,
+      "xmp_files": [
+        "Nocturne_Lux_000.xmp",
+        "Velvet_Noir_001.xmp",
+        "Opulence_002.xmp",
+        "Silk_Embers_003.xmp",
+        "Champagne_Dusk_004.xmp"
+      ],
+      "cube_files": [
+        "Nocturne_Lux_000.cube",
+        "Velvet_Noir_001.cube",
+        "Opulence_002.cube",
+        "Silk_Embers_003.cube",
+        "Champagne_Dusk_004.cube"
+      ]
+    },
+    {
+      "id": "cinematic_shadows",
+      "name": "Cinematic Shadows",
+      "description": "Crushed blacks with teal shadows and warm highlights for cinema-inspired images",
+      "mood": "Dramatic, cinematic, bold",
+      "preset_count": 5,
+      "xmp_files": [
+        "Obsidian_Teal_000.xmp",
+        "Crimson_Shadow_001.xmp",
+        "Abyss_Glow_002.xmp",
+        "Tungsten_Dreams_003.xmp",
+        "Midnight_Cinema_004.xmp"
+      ],
+      "cube_files": [
+        "Obsidian_Teal_000.cube",
+        "Crimson_Shadow_001.cube",
+        "Abyss_Glow_002.cube",
+        "Tungsten_Dreams_003.cube",
+        "Midnight_Cinema_004.cube"
+      ]
+    },
+    {
+      "id": "analog_film",
+      "name": "Analog Film",
+      "description": "Film grain, muted colors, and vintage feel emulating classic film stocks",
+      "mood": "Nostalgic, warm, organic",
+      "preset_count": 5,
+      "xmp_files": [
+        "Kodachrome_Soul_000.xmp",
+        "Film_Haven_001.xmp",
+        "Dust_and_Grain_002.xmp",
+        "Retrograde_003.xmp",
+        "Analog_Hearts_004.xmp"
+      ],
+      "cube_files": [
+        "Kodachrome_Soul_000.cube",
+        "Film_Haven_001.cube",
+        "Dust_and_Grain_002.cube",
+        "Retrograde_003.cube",
+        "Analog_Hearts_004.cube"
+      ]
+    },
+    {
+      "id": "moody_documentary",
+      "name": "Moody Documentary",
+      "description": "Desaturated, contrasty, journalistic style for documentary storytelling",
+      "mood": "Raw, honest, gritty",
+      "preset_count": 5,
+      "xmp_files": [
+        "Raw_Truth_000.xmp",
+        "Street_Witness_001.xmp",
+        "Shadow_Journal_002.xmp",
+        "Urban_Decay_003.xmp",
+        "Light_Chaser_004.xmp"
+      ],
+      "cube_files": [
+        "Raw_Truth_000.cube",
+        "Street_Witness_001.cube",
+        "Shadow_Journal_002.cube",
+        "Urban_Decay_003.cube",
+        "Light_Chaser_004.cube"
+      ]
+    },
+    {
+      "id": "dreamy_wedding",
+      "name": "Dreamy Wedding",
+      "description": "Soft, romantic, warm highlights with pastel tones for wedding photography",
+      "mood": "Romantic, ethereal, tender",
+      "preset_count": 5,
+      "xmp_files": [
+        "Blush_Veil_000.xmp",
+        "Golden_Vows_001.xmp",
+        "Ethereal_Love_002.xmp",
+        "Pastel_Promise_003.xmp",
+        "Romantic_Haze_004.xmp"
+      ],
+      "cube_files": [
+        "Blush_Veil_000.cube",
+        "Golden_Vows_001.cube",
+        "Ethereal_Love_002.cube",
+        "Pastel_Promise_003.cube",
+        "Romantic_Haze_004.cube"
+      ]
+    },
+    {
+      "id": "hyperreal_fashion",
+      "name": "Hyperreal Fashion",
+      "description": "Punchy, saturated, with flawless skin rendering for fashion editorials",
+      "mood": "Bold, vibrant, high-impact",
+      "preset_count": 5,
+      "xmp_files": [
+        "Neon_Runway_000.xmp",
+        "Editorial_Punch_001.xmp",
+        "Glamour_Burst_002.xmp",
+        "Haute_Glow_003.xmp",
+        "Vogue_Voltage_004.xmp"
+      ],
+      "cube_files": [
+        "Neon_Runway_000.cube",
+        "Editorial_Punch_001.cube",
+        "Glamour_Burst_002.cube",
+        "Haute_Glow_003.cube",
+        "Vogue_Voltage_004.cube"
+      ]
+    },
+    {
+      "id": "night_neon",
+      "name": "Night Neon",
+      "description": "Cyberpunk-inspired with neon glow enhancement and deep shadow work",
+      "mood": "Electric, urban, futuristic",
+      "preset_count": 5,
+      "xmp_files": [
+        "Cyber_Glow_000.xmp",
+        "Neon_Drift_001.xmp",
+        "Electric_Avenue_002.xmp",
+        "Tokyo_Midnight_003.xmp",
+        "Laser_Dreams_004.xmp"
+      ],
+      "cube_files": [
+        "Cyber_Glow_000.cube",
+        "Neon_Drift_001.cube",
+        "Electric_Avenue_002.cube",
+        "Tokyo_Midnight_003.cube",
+        "Laser_Dreams_004.cube"
+      ]
+    },
+    {
+      "id": "luxury_travel",
+      "name": "Luxury Travel",
+      "description": "Golden hour tones, rich landscapes, and vivid colors for travel content",
+      "mood": "Wanderlust, golden, rich",
+      "preset_count": 5,
+      "xmp_files": [
+        "Golden_Horizon_000.xmp",
+        "Safari_Luxe_001.xmp",
+        "Tuscan_Sun_002.xmp",
+        "Azure_Escape_003.xmp",
+        "Wanderlust_Gold_004.xmp"
+      ],
+      "cube_files": [
+        "Golden_Horizon_000.cube",
+        "Safari_Luxe_001.cube",
+        "Tuscan_Sun_002.cube",
+        "Azure_Escape_003.cube",
+        "Wanderlust_Gold_004.cube"
+      ]
+    },
+    {
+      "id": "minimal_scandinavian",
+      "name": "Minimal Scandinavian",
+      "description": "Clean, bright, muted, airy aesthetic inspired by Scandinavian design",
+      "mood": "Calm, airy, minimal",
+      "preset_count": 5,
+      "xmp_files": [
+        "Nordic_Air_000.xmp",
+        "Oslo_Light_001.xmp",
+        "Fjord_Mist_002.xmp",
+        "Clean_Linen_003.xmp",
+        "Snow_Whisper_004.xmp"
+      ],
+      "cube_files": [
+        "Nordic_Air_000.cube",
+        "Oslo_Light_001.cube",
+        "Fjord_Mist_002.cube",
+        "Clean_Linen_003.cube",
+        "Snow_Whisper_004.cube"
+      ]
+    },
+    {
+      "id": "cyberpunk_cinema",
+      "name": "Cyberpunk Cinema",
+      "description": "Cyan/magenta split with high contrast for futuristic cyberpunk visuals",
+      "mood": "Futuristic, neon, dystopian",
+      "preset_count": 5,
+      "xmp_files": [
+        "Neon_Dystopia_000.xmp",
+        "Synth_City_001.xmp",
+        "Matrix_Haze_002.xmp",
+        "Future_Shock_003.xmp",
+        "Chrome_Dreams_004.xmp"
+      ],
+      "cube_files": [
+        "Neon_Dystopia_000.cube",
+        "Synth_City_001.cube",
+        "Matrix_Haze_002.cube",
+        "Future_Shock_003.cube",
+        "Chrome_Dreams_004.cube"
+      ]
+    },
+    {
+      "id": "neo_noir",
+      "name": "Neo Noir",
+      "description": "Dramatic shadows, high contrast, moody lighting inspired by noir cinema",
+      "mood": "Mysterious, dramatic, dark",
+      "preset_count": 5,
+      "xmp_files": [
+        "Shadow_Play_000.xmp",
+        "Night_Crawler_001.xmp",
+        "Dark_Paradise_002.xmp",
+        "Sin_City_003.xmp",
+        "Velvet_Shadows_004.xmp"
+      ],
+      "cube_files": [
+        "Shadow_Play_000.cube",
+        "Night_Crawler_001.cube",
+        "Dark_Paradise_002.cube",
+        "Sin_City_003.cube",
+        "Velvet_Shadows_004.cube"
+      ]
+    },
+    {
+      "id": "vintage_film_lab",
+      "name": "Vintage Film Lab",
+      "description": "Faded, grainy, color-shifted retro film lab aesthetic",
+      "mood": "Retro, faded, nostalgic",
+      "preset_count": 5,
+      "xmp_files": [
+        "Faded_Memories_000.xmp",
+        "Color_Fade_Lab_001.xmp",
+        "Retro_Chem_002.xmp",
+        "Cross_Processed_003.xmp",
+        "Film_Ghost_004.xmp"
+      ],
+      "cube_files": [
+        "Faded_Memories_000.cube",
+        "Color_Fade_Lab_001.cube",
+        "Retro_Chem_002.cube",
+        "Cross_Processed_003.cube",
+        "Film_Ghost_004.cube"
+      ]
+    },
+    {
+      "id": "high_dynamic_luxury",
+      "name": "High Dynamic Luxury",
+      "description": "HDR-like with detailed shadows and highlights for luxury imagery",
+      "mood": "Premium, detailed, luminous",
+      "preset_count": 5,
+      "xmp_files": [
+        "Luminous_Prime_000.xmp",
+        "HDR_Luxe_001.xmp",
+        "Detail_Master_002.xmp",
+        "Shadow_King_003.xmp",
+        "Highlight_Queen_004.xmp"
+      ],
+      "cube_files": [
+        "Luminous_Prime_000.cube",
+        "HDR_Luxe_001.cube",
+        "Detail_Master_002.cube",
+        "Shadow_King_003.cube",
+        "Highlight_Queen_004.cube"
+      ]
+    },
+    {
+      "id": "dark_instagram_mood",
+      "name": "Dark Instagram Mood",
+      "description": "Desaturated, crushed blacks, cool tones for social media aesthetics",
+      "mood": "Moody, cool, modern",
+      "preset_count": 5,
+      "xmp_files": [
+        "Mood_Grid_000.xmp",
+        "Dark_Feed_001.xmp",
+        "Shadow_Scroll_002.xmp",
+        "Noir_Social_003.xmp",
+        "Dim_Aesthetic_004.xmp"
+      ],
+      "cube_files": [
+        "Mood_Grid_000.cube",
+        "Dark_Feed_001.cube",
+        "Shadow_Scroll_002.cube",
+        "Noir_Social_003.cube",
+        "Dim_Aesthetic_004.cube"
+      ]
+    },
+    {
+      "id": "clean_creator_economy",
+      "name": "Clean Creator Economy",
+      "description": "Bright, clean, approachable, modern aesthetic for content creators",
+      "mood": "Fresh, bright, friendly",
+      "preset_count": 5,
+      "xmp_files": [
+        "Bright_Start_000.xmp",
+        "Creator_Glow_001.xmp",
+        "Fresh_Content_002.xmp",
+        "Clean_Slate_003.xmp",
+        "Modern_Voice_004.xmp"
+      ],
+      "cube_files": [
+        "Bright_Start_000.cube",
+        "Creator_Glow_001.cube",
+        "Fresh_Content_002.cube",
+        "Clean_Slate_003.cube",
+        "Modern_Voice_004.cube"
+      ]
+    },
+    {
+      "id": "music_video_looks",
+      "name": "Music Video Looks",
+      "description": "Stylized, dramatic, high-impact looks inspired by music video grading",
+      "mood": "Dynamic, stylized, intense",
+      "preset_count": 5,
+      "xmp_files": [
+        "MTA_Glow_000.xmp",
+        "Pop_Star_001.xmp",
+        "Rhythm_Light_002.xmp",
+        "Stage_Blaze_003.xmp",
+        "Beat_Drop_004.xmp"
+      ],
+      "cube_files": [
+        "MTA_Glow_000.cube",
+        "Pop_Star_001.cube",
+        "Rhythm_Light_002.cube",
+        "Stage_Blaze_003.cube",
+        "Beat_Drop_004.cube"
+      ]
+    },
+    {
+      "id": "commercial_luxury",
+      "name": "Commercial Luxury",
+      "description": "Polished, professional, product-ready aesthetic for commercial work",
+      "mood": "Clean, premium, sharp",
+      "preset_count": 5,
+      "xmp_files": [
+        "Product_Prime_000.xmp",
+        "Brand_Luxe_001.xmp",
+        "Commercial_Gold_002.xmp",
+        "Retail_Glow_003.xmp",
+        "Market_Master_004.xmp"
+      ],
+      "cube_files": [
+        "Product_Prime_000.cube",
+        "Brand_Luxe_001.cube",
+        "Commercial_Gold_002.cube",
+        "Retail_Glow_003.cube",
+        "Market_Master_004.cube"
+      ]
+    },
+    {
+      "id": "netflix_inspired",
+      "name": "Netflix Inspired",
+      "description": "Cinematic teal/orange with filmic qualities inspired by streaming content",
+      "mood": "Cinematic, binge-worthy, polished",
+      "preset_count": 5,
+      "xmp_files": [
+        "Stream_Queen_000.xmp",
+        "Binge_Night_001.xmp",
+        "Teal_Drama_002.xmp",
+        "Series_Glow_003.xmp",
+        "Episode_One_004.xmp"
+      ],
+      "cube_files": [
+        "Stream_Queen_000.cube",
+        "Binge_Night_001.cube",
+        "Teal_Drama_002.cube",
+        "Series_Glow_003.cube",
+        "Episode_One_004.cube"
+      ]
+    },
+    {
+      "id": "a24_inspired",
+      "name": "A24 Inspired",
+      "description": "Artistic, unconventional, mood-driven looks inspired by A24 films",
+      "mood": "Arthouse, unconventional, evocative",
+      "preset_count": 5,
+      "xmp_files": [
+        "Hereditary_Mood_000.xmp",
+        "Moonlight_Glow_001.xmp",
+        "Midsommar_Haze_002.xmp",
+        "Ex_Machina_003.xmp",
+        "Green_Knight_004.xmp"
+      ],
+      "cube_files": [
+        "Hereditary_Mood_000.cube",
+        "Moonlight_Glow_001.cube",
+        "Midsommar_Haze_002.cube",
+        "Ex_Machina_003.cube",
+        "Green_Knight_004.cube"
+      ]
+    },
+    {
+      "id": "kodak_portra_emulation",
+      "name": "Kodak Portra Emulation",
+      "description": "Warm skin tones, soft contrast, film grain emulating Kodak Portra stocks",
+      "mood": "Warm, filmic, timeless",
+      "preset_count": 5,
+      "xmp_files": [
+        "Portra_160_000.xmp",
+        "Portra_400_001.xmp",
+        "Portra_800_002.xmp",
+        "Portra_Warm_003.xmp",
+        "Portra_Skin_004.xmp"
+      ],
+      "cube_files": [
+        "Portra_160_000.cube",
+        "Portra_400_001.cube",
+        "Portra_800_002.cube",
+        "Portra_Warm_003.cube",
+        "Portra_Skin_004.cube"
+      ]
+    },
+    {
+      "id": "fuji_400h_emulation",
+      "name": "Fuji 400H Emulation",
+      "description": "Pastel tones, green shadows, airy feel emulating Fuji Pro 400H",
+      "mood": "Soft, pastel, delicate",
+      "preset_count": 5,
+      "xmp_files": [
+        "Fuji_Pastel_000.xmp",
+        "400H_Soft_001.xmp",
+        "Pro_Green_002.xmp",
+        "Fuji_Air_003.xmp",
+        "Sakura_Tone_004.xmp"
+      ],
+      "cube_files": [
+        "Fuji_Pastel_000.cube",
+        "400H_Soft_001.cube",
+        "Pro_Green_002.cube",
+        "Fuji_Air_003.cube",
+        "Sakura_Tone_004.cube"
+      ]
+    },
+    {
+      "id": "arri_alexa_look",
+      "name": "ARRI Alexa Look",
+      "description": "Digital cinema natural skin tones with wide dynamic range emulation",
+      "mood": "Cinematic, natural, professional",
+      "preset_count": 5,
+      "xmp_files": [
+        "Alexa_Log_000.xmp",
+        "ARRI_Natural_001.xmp",
+        "Cinema_Skin_002.xmp",
+        "Digital_Film_003.xmp",
+        "Alexa_Wide_004.xmp"
+      ],
+      "cube_files": [
+        "Alexa_Log_000.cube",
+        "ARRI_Natural_001.cube",
+        "Cinema_Skin_002.cube",
+        "Digital_Film_003.cube",
+        "Alexa_Wide_004.cube"
+      ]
+    },
+    {
+      "id": "cinestill_800t_emulation",
+      "name": "CineStill 800T Emulation",
+      "description": "Tungsten balance, halation glow, night film characteristics",
+      "mood": "Nocturnal, glowing, cinematic",
+      "preset_count": 5,
+      "xmp_files": [
+        "800T_Tungsten_000.xmp",
+        "CineStill_Night_001.xmp",
+        "Halation_Glow_002.xmp",
+        "Tungsten_Film_003.xmp",
+        "Night_Still_004.xmp"
+      ],
+      "cube_files": [
+        "800T_Tungsten_000.cube",
+        "CineStill_Night_001.cube",
+        "Halation_Glow_002.cube",
+        "Tungsten_Film_003.cube",
+        "Night_Still_004.cube"
+      ]
+    },
+    {
+      "id": "bleach_bypass",
+      "name": "Bleach Bypass",
+      "description": "Silver retention, high contrast, desaturated bleach bypass film process",
+      "mood": "Gritty, stark, intense",
+      "preset_count": 5,
+      "xmp_files": [
+        "Silver_Keep_000.xmp",
+        "Bleach_Raw_001.xmp",
+        "Skip_Bath_002.xmp",
+        "Chrome_Grain_003.xmp",
+        "Bypass_Hard_004.xmp"
+      ],
+      "cube_files": [
+        "Silver_Keep_000.cube",
+        "Bleach_Raw_001.cube",
+        "Skip_Bath_002.cube",
+        "Chrome_Grain_003.cube",
+        "Bypass_Hard_004.cube"
+      ]
+    },
+    {
+      "id": "teal_orange_modern",
+      "name": "Teal & Orange Modern",
+      "description": "Complementary colors with modern cinematic teal and orange grading",
+      "mood": "Blockbuster, cinematic, contemporary",
+      "preset_count": 5,
+      "xmp_files": [
+        "Blockbuster_000.xmp",
+        "Teal_Fire_001.xmp",
+        "Orange_Wave_002.xmp",
+        "Modern_Cinema_003.xmp",
+        "Complementary_004.xmp"
+      ],
+      "cube_files": [
+        "Blockbuster_000.cube",
+        "Teal_Fire_001.cube",
+        "Orange_Wave_002.cube",
+        "Modern_Cinema_003.cube",
+        "Complementary_004.cube"
+      ]
+    }
+  ],
+  "xmp_presets": [
+    {
+      "filename": "Nocturne_Lux_000.xmp",
+      "name": "Nocturne Lux",
+      "category": "Luxury Editorial",
+      "category_id": "luxury_editorial",
+      "variant": 0,
+      "description": "Rich blacks, soft contrast, warm skin tones for high-end editorial photography",
+      "mood": "Sophisticated, elegant, polished",
+      "type": "xmp"
+    },
+    {
+      "filename": "Velvet_Noir_001.xmp",
+      "name": "Velvet Noir",
+      "category": "Luxury Editorial",
+      "category_id": "luxury_editorial",
+      "variant": 1,
+      "description": "Rich blacks, soft contrast, warm skin tones for high-end editorial photography",
+      "mood": "Sophisticated, elegant, polished",
+      "type": "xmp"
+    },
+    {
+      "filename": "Opulence_002.xmp",
+      "name": "Opulence",
+      "category": "Luxury Editorial",
+      "category_id": "luxury_editorial",
+      "variant": 2,
+      "description": "Rich blacks, soft contrast, warm skin tones for high-end editorial photography",
+      "mood": "Sophisticated, elegant, polished",
+      "type": "xmp"
+    },
+    {
+      "filename": "Silk_Embers_003.xmp",
+      "name": "Silk Embers",
+      "category": "Luxury Editorial",
+      "category_id": "luxury_editorial",
+      "variant": 3,
+      "description": "Rich blacks, soft contrast, warm skin tones for high-end editorial photography",
+      "mood": "Sophisticated, elegant, polished",
+      "type": "xmp"
+    },
+    {
+      "filename": "Champagne_Dusk_004.xmp",
+      "name": "Champagne Dusk",
+      "category": "Luxury Editorial",
+      "category_id": "luxury_editorial",
+      "variant": 4,
+      "description": "Rich blacks, soft contrast, warm skin tones for high-end editorial photography",
+      "mood": "Sophisticated, elegant, polished",
+      "type": "xmp"
+    },
+    {
+      "filename": "Obsidian_Teal_000.xmp",
+      "name": "Obsidian Teal",
+      "category": "Cinematic Shadows",
+      "category_id": "cinematic_shadows",
+      "variant": 0,
+      "description": "Crushed blacks with teal shadows and warm highlights for cinema-inspired images",
+      "mood": "Dramatic, cinematic, bold",
+      "type": "xmp"
+    },
+    {
+      "filename": "Crimson_Shadow_001.xmp",
+      "name": "Crimson Shadow",
+      "category": "Cinematic Shadows",
+      "category_id": "cinematic_shadows",
+      "variant": 1,
+      "description": "Crushed blacks with teal shadows and warm highlights for cinema-inspired images",
+      "mood": "Dramatic, cinematic, bold",
+      "type": "xmp"
+    },
+    {
+      "filename": "Abyss_Glow_002.xmp",
+      "name": "Abyss Glow",
+      "category": "Cinematic Shadows",
+      "category_id": "cinematic_shadows",
+      "variant": 2,
+      "description": "Crushed blacks with teal shadows and warm highlights for cinema-inspired images",
+      "mood": "Dramatic, cinematic, bold",
+      "type": "xmp"
+    },
+    {
+      "filename": "Tungsten_Dreams_003.xmp",
+      "name": "Tungsten Dreams",
+      "category": "Cinematic Shadows",
+      "category_id": "cinematic_shadows",
+      "variant": 3,
+      "description": "Crushed blacks with teal shadows and warm highlights for cinema-inspired images",
+      "mood": "Dramatic, cinematic, bold",
+      "type": "xmp"
+    },
+    {
+      "filename": "Midnight_Cinema_004.xmp",
+      "name": "Midnight Cinema",
+      "category": "Cinematic Shadows",
+      "category_id": "cinematic_shadows",
+      "variant": 4,
+      "description": "Crushed blacks with teal shadows and warm highlights for cinema-inspired images",
+      "mood": "Dramatic, cinematic, bold",
+      "type": "xmp"
+    },
+    {
+      "filename": "Kodachrome_Soul_000.xmp",
+      "name": "Kodachrome Soul",
+      "category": "Analog Film",
+      "category_id": "analog_film",
+      "variant": 0,
+      "description": "Film grain, muted colors, and vintage feel emulating classic film stocks",
+      "mood": "Nostalgic, warm, organic",
+      "type": "xmp"
+    },
+    {
+      "filename": "Film_Haven_001.xmp",
+      "name": "Film Haven",
+      "category": "Analog Film",
+      "category_id": "analog_film",
+      "variant": 1,
+      "description": "Film grain, muted colors, and vintage feel emulating classic film stocks",
+      "mood": "Nostalgic, warm, organic",
+      "type": "xmp"
+    },
+    {
+      "filename": "Dust_and_Grain_002.xmp",
+      "name": "Dust & Grain",
+      "category": "Analog Film",
+      "category_id": "analog_film",
+      "variant": 2,
+      "description": "Film grain, muted colors, and vintage feel emulating classic film stocks",
+      "mood": "Nostalgic, warm, organic",
+      "type": "xmp"
+    },
+    {
+      "filename": "Retrograde_003.xmp",
+      "name": "Retrograde",
+      "category": "Analog Film",
+      "category_id": "analog_film",
+      "variant": 3,
+      "description": "Film grain, muted colors, and vintage feel emulating classic film stocks",
+      "mood": "Nostalgic, warm, organic",
+      "type": "xmp"
+    },
+    {
+      "filename": "Analog_Hearts_004.xmp",
+      "name": "Analog Hearts",
+      "category": "Analog Film",
+      "category_id": "analog_film",
+      "variant": 4,
+      "description": "Film grain, muted colors, and vintage feel emulating classic film stocks",
+      "mood": "Nostalgic, warm, organic",
+      "type": "xmp"
+    },
+    {
+      "filename": "Raw_Truth_000.xmp",
+      "name": "Raw Truth",
+      "category": "Moody Documentary",
+      "category_id": "moody_documentary",
+      "variant": 0,
+      "description": "Desaturated, contrasty, journalistic style for documentary storytelling",
+      "mood": "Raw, honest, gritty",
+      "type": "xmp"
+    },
+    {
+      "filename": "Street_Witness_001.xmp",
+      "name": "Street Witness",
+      "category": "Moody Documentary",
+      "category_id": "moody_documentary",
+      "variant": 1,
+      "description": "Desaturated, contrasty, journalistic style for documentary storytelling",
+      "mood": "Raw, honest, gritty",
+      "type": "xmp"
+    },
+    {
+      "filename": "Shadow_Journal_002.xmp",
+      "name": "Shadow Journal",
+      "category": "Moody Documentary",
+      "category_id": "moody_documentary",
+      "variant": 2,
+      "description": "Desaturated, contrasty, journalistic style for documentary storytelling",
+      "mood": "Raw, honest, gritty",
+      "type": "xmp"
+    },
+    {
+      "filename": "Urban_Decay_003.xmp",
+      "name": "Urban Decay",
+      "category": "Moody Documentary",
+      "category_id": "moody_documentary",
+      "variant": 3,
+      "description": "Desaturated, contrasty, journalistic style for documentary storytelling",
+      "mood": "Raw, honest, gritty",
+      "type": "xmp"
+    },
+    {
+      "filename": "Light_Chaser_004.xmp",
+      "name": "Light Chaser",
+      "category": "Moody Documentary",
+      "category_id": "moody_documentary",
+      "variant": 4,
+      "description": "Desaturated, contrasty, journalistic style for documentary storytelling",
+      "mood": "Raw, honest, gritty",
+      "type": "xmp"
+    },
+    {
+      "filename": "Blush_Veil_000.xmp",
+      "name": "Blush Veil",
+      "category": "Dreamy Wedding",
+      "category_id": "dreamy_wedding",
+      "variant": 0,
+      "description": "Soft, romantic, warm highlights with pastel tones for wedding photography",
+      "mood": "Romantic, ethereal, tender",
+      "type": "xmp"
+    },
+    {
+      "filename": "Golden_Vows_001.xmp",
+      "name": "Golden Vows",
+      "category": "Dreamy Wedding",
+      "category_id": "dreamy_wedding",
+      "variant": 1,
+      "description": "Soft, romantic, warm highlights with pastel tones for wedding photography",
+      "mood": "Romantic, ethereal, tender",
+      "type": "xmp"
+    },
+    {
+      "filename": "Ethereal_Love_002.xmp",
+      "name": "Ethereal Love",
+      "category": "Dreamy Wedding",
+      "category_id": "dreamy_wedding",
+      "variant": 2,
+      "description": "Soft, romantic, warm highlights with pastel tones for wedding photography",
+      "mood": "Romantic, ethereal, tender",
+      "type": "xmp"
+    },
+    {
+      "filename": "Pastel_Promise_003.xmp",
+      "name": "Pastel Promise",
+      "category": "Dreamy Wedding",
+      "category_id": "dreamy_wedding",
+      "variant": 3,
+      "description": "Soft, romantic, warm highlights with pastel tones for wedding photography",
+      "mood": "Romantic, ethereal, tender",
+      "type": "xmp"
+    },
+    {
+      "filename": "Romantic_Haze_004.xmp",
+      "name": "Romantic Haze",
+      "category": "Dreamy Wedding",
+      "category_id": "dreamy_wedding",
+      "variant": 4,
+      "description": "Soft, romantic, warm highlights with pastel tones for wedding photography",
+      "mood": "Romantic, ethereal, tender",
+      "type": "xmp"
+    },
+    {
+      "filename": "Neon_Runway_000.xmp",
+      "name": "Neon Runway",
+      "category": "Hyperreal Fashion",
+      "category_id": "hyperreal_fashion",
+      "variant": 0,
+      "description": "Punchy, saturated, with flawless skin rendering for fashion editorials",
+      "mood": "Bold, vibrant, high-impact",
+      "type": "xmp"
+    },
+    {
+      "filename": "Editorial_Punch_001.xmp",
+      "name": "Editorial Punch",
+      "category": "Hyperreal Fashion",
+      "category_id": "hyperreal_fashion",
+      "variant": 1,
+      "description": "Punchy, saturated, with flawless skin rendering for fashion editorials",
+      "mood": "Bold, vibrant, high-impact",
+      "type": "xmp"
+    },
+    {
+      "filename": "Glamour_Burst_002.xmp",
+      "name": "Glamour Burst",
+      "category": "Hyperreal Fashion",
+      "category_id": "hyperreal_fashion",
+      "variant": 2,
+      "description": "Punchy, saturated, with flawless skin rendering for fashion editorials",
+      "mood": "Bold, vibrant, high-impact",
+      "type": "xmp"
+    },
+    {
+      "filename": "Haute_Glow_003.xmp",
+      "name": "Haute Glow",
+      "category": "Hyperreal Fashion",
+      "category_id": "hyperreal_fashion",
+      "variant": 3,
+      "description": "Punchy, saturated, with flawless skin rendering for fashion editorials",
+      "mood": "Bold, vibrant, high-impact",
+      "type": "xmp"
+    },
+    {
+      "filename": "Vogue_Voltage_004.xmp",
+      "name": "Vogue Voltage",
+      "category": "Hyperreal Fashion",
+      "category_id": "hyperreal_fashion",
+      "variant": 4,
+      "description": "Punchy, saturated, with flawless skin rendering for fashion editorials",
+      "mood": "Bold, vibrant, high-impact",
+      "type": "xmp"
+    },
+    {
+      "filename": "Cyber_Glow_000.xmp",
+      "name": "Cyber Glow",
+      "category": "Night Neon",
+      "category_id": "night_neon",
+      "variant": 0,
+      "description": "Cyberpunk-inspired with neon glow enhancement and deep shadow work",
+      "mood": "Electric, urban, futuristic",
+      "type": "xmp"
+    },
+    {
+      "filename": "Neon_Drift_001.xmp",
+      "name": "Neon Drift",
+      "category": "Night Neon",
+      "category_id": "night_neon",
+      "variant": 1,
+      "description": "Cyberpunk-inspired with neon glow enhancement and deep shadow work",
+      "mood": "Electric, urban, futuristic",
+      "type": "xmp"
+    },
+    {
+      "filename": "Electric_Avenue_002.xmp",
+      "name": "Electric Avenue",
+      "category": "Night Neon",
+      "category_id": "night_neon",
+      "variant": 2,
+      "description": "Cyberpunk-inspired with neon glow enhancement and deep shadow work",
+      "mood": "Electric, urban, futuristic",
+      "type": "xmp"
+    },
+    {
+      "filename": "Tokyo_Midnight_003.xmp",
+      "name": "Tokyo Midnight",
+      "category": "Night Neon",
+      "category_id": "night_neon",
+      "variant": 3,
+      "description": "Cyberpunk-inspired with neon glow enhancement and deep shadow work",
+      "mood": "Electric, urban, futuristic",
+      "type": "xmp"
+    },
+    {
+      "filename": "Laser_Dreams_004.xmp",
+      "name": "Laser Dreams",
+      "category": "Night Neon",
+      "category_id": "night_neon",
+      "variant": 4,
+      "description": "Cyberpunk-inspired with neon glow enhancement and deep shadow work",
+      "mood": "Electric, urban, futuristic",
+      "type": "xmp"
+    },
+    {
+      "filename": "Golden_Horizon_000.xmp",
+      "name": "Golden Horizon",
+      "category": "Luxury Travel",
+      "category_id": "luxury_travel",
+      "variant": 0,
+      "description": "Golden hour tones, rich landscapes, and vivid colors for travel content",
+      "mood": "Wanderlust, golden, rich",
+      "type": "xmp"
+    },
+    {
+      "filename": "Safari_Luxe_001.xmp",
+      "name": "Safari Luxe",
+      "category": "Luxury Travel",
+      "category_id": "luxury_travel",
+      "variant": 1,
+      "description": "Golden hour tones, rich landscapes, and vivid colors for travel content",
+      "mood": "Wanderlust, golden, rich",
+      "type": "xmp"
+    },
+    {
+      "filename": "Tuscan_Sun_002.xmp",
+      "name": "Tuscan Sun",
+      "category": "Luxury Travel",
+      "category_id": "luxury_travel",
+      "variant": 2,
+      "description": "Golden hour tones, rich landscapes, and vivid colors for travel content",
+      "mood": "Wanderlust, golden, rich",
+      "type": "xmp"
+    },
+    {
+      "filename": "Azure_Escape_003.xmp",
+      "name": "Azure Escape",
+      "category": "Luxury Travel",
+      "category_id": "luxury_travel",
+      "variant": 3,
+      "description": "Golden hour tones, rich landscapes, and vivid colors for travel content",
+      "mood": "Wanderlust, golden, rich",
+      "type": "xmp"
+    },
+    {
+      "filename": "Wanderlust_Gold_004.xmp",
+      "name": "Wanderlust Gold",
+      "category": "Luxury Travel",
+      "category_id": "luxury_travel",
+      "variant": 4,
+      "description": "Golden hour tones, rich landscapes, and vivid colors for travel content",
+      "mood": "Wanderlust, golden, rich",
+      "type": "xmp"
+    },
+    {
+      "filename": "Nordic_Air_000.xmp",
+      "name": "Nordic Air",
+      "category": "Minimal Scandinavian",
+      "category_id": "minimal_scandinavian",
+      "variant": 0,
+      "description": "Clean, bright, muted, airy aesthetic inspired by Scandinavian design",
+      "mood": "Calm, airy, minimal",
+      "type": "xmp"
+    },
+    {
+      "filename": "Oslo_Light_001.xmp",
+      "name": "Oslo Light",
+      "category": "Minimal Scandinavian",
+      "category_id": "minimal_scandinavian",
+      "variant": 1,
+      "description": "Clean, bright, muted, airy aesthetic inspired by Scandinavian design",
+      "mood": "Calm, airy, minimal",
+      "type": "xmp"
+    },
+    {
+      "filename": "Fjord_Mist_002.xmp",
+      "name": "Fjord Mist",
+      "category": "Minimal Scandinavian",
+      "category_id": "minimal_scandinavian",
+      "variant": 2,
+      "description": "Clean, bright, muted, airy aesthetic inspired by Scandinavian design",
+      "mood": "Calm, airy, minimal",
+      "type": "xmp"
+    },
+    {
+      "filename": "Clean_Linen_003.xmp",
+      "name": "Clean Linen",
+      "category": "Minimal Scandinavian",
+      "category_id": "minimal_scandinavian",
+      "variant": 3,
+      "description": "Clean, bright, muted, airy aesthetic inspired by Scandinavian design",
+      "mood": "Calm, airy, minimal",
+      "type": "xmp"
+    },
+    {
+      "filename": "Snow_Whisper_004.xmp",
+      "name": "Snow Whisper",
+      "category": "Minimal Scandinavian",
+      "category_id": "minimal_scandinavian",
+      "variant": 4,
+      "description": "Clean, bright, muted, airy aesthetic inspired by Scandinavian design",
+      "mood": "Calm, airy, minimal",
+      "type": "xmp"
+    },
+    {
+      "filename": "Neon_Dystopia_000.xmp",
+      "name": "Neon Dystopia",
+      "category": "Cyberpunk Cinema",
+      "category_id": "cyberpunk_cinema",
+      "variant": 0,
+      "description": "Cyan/magenta split with high contrast for futuristic cyberpunk visuals",
+      "mood": "Futuristic, neon, dystopian",
+      "type": "xmp"
+    },
+    {
+      "filename": "Synth_City_001.xmp",
+      "name": "Synth City",
+      "category": "Cyberpunk Cinema",
+      "category_id": "cyberpunk_cinema",
+      "variant": 1,
+      "description": "Cyan/magenta split with high contrast for futuristic cyberpunk visuals",
+      "mood": "Futuristic, neon, dystopian",
+      "type": "xmp"
+    },
+    {
+      "filename": "Matrix_Haze_002.xmp",
+      "name": "Matrix Haze",
+      "category": "Cyberpunk Cinema",
+      "category_id": "cyberpunk_cinema",
+      "variant": 2,
+      "description": "Cyan/magenta split with high contrast for futuristic cyberpunk visuals",
+      "mood": "Futuristic, neon, dystopian",
+      "type": "xmp"
+    },
+    {
+      "filename": "Future_Shock_003.xmp",
+      "name": "Future Shock",
+      "category": "Cyberpunk Cinema",
+      "category_id": "cyberpunk_cinema",
+      "variant": 3,
+      "description": "Cyan/magenta split with high contrast for futuristic cyberpunk visuals",
+      "mood": "Futuristic, neon, dystopian",
+      "type": "xmp"
+    },
+    {
+      "filename": "Chrome_Dreams_004.xmp",
+      "name": "Chrome Dreams",
+      "category": "Cyberpunk Cinema",
+      "category_id": "cyberpunk_cinema",
+      "variant": 4,
+      "description": "Cyan/magenta split with high contrast for futuristic cyberpunk visuals",
+      "mood": "Futuristic, neon, dystopian",
+      "type": "xmp"
+    },
+    {
+      "filename": "Shadow_Play_000.xmp",
+      "name": "Shadow Play",
+      "category": "Neo Noir",
+      "category_id": "neo_noir",
+      "variant": 0,
+      "description": "Dramatic shadows, high contrast, moody lighting inspired by noir cinema",
+      "mood": "Mysterious, dramatic, dark",
+      "type": "xmp"
+    },
+    {
+      "filename": "Night_Crawler_001.xmp",
+      "name": "Night Crawler",
+      "category": "Neo Noir",
+      "category_id": "neo_noir",
+      "variant": 1,
+      "description": "Dramatic shadows, high contrast, moody lighting inspired by noir cinema",
+      "mood": "Mysterious, dramatic, dark",
+      "type": "xmp"
+    },
+    {
+      "filename": "Dark_Paradise_002.xmp",
+      "name": "Dark Paradise",
+      "category": "Neo Noir",
+      "category_id": "neo_noir",
+      "variant": 2,
+      "description": "Dramatic shadows, high contrast, moody lighting inspired by noir cinema",
+      "mood": "Mysterious, dramatic, dark",
+      "type": "xmp"
+    },
+    {
+      "filename": "Sin_City_003.xmp",
+      "name": "Sin City",
+      "category": "Neo Noir",
+      "category_id": "neo_noir",
+      "variant": 3,
+      "description": "Dramatic shadows, high contrast, moody lighting inspired by noir cinema",
+      "mood": "Mysterious, dramatic, dark",
+      "type": "xmp"
+    },
+    {
+      "filename": "Velvet_Shadows_004.xmp",
+      "name": "Velvet Shadows",
+      "category": "Neo Noir",
+      "category_id": "neo_noir",
+      "variant": 4,
+      "description": "Dramatic shadows, high contrast, moody lighting inspired by noir cinema",
+      "mood": "Mysterious, dramatic, dark",
+      "type": "xmp"
+    },
+    {
+      "filename": "Faded_Memories_000.xmp",
+      "name": "Faded Memories",
+      "category": "Vintage Film Lab",
+      "category_id": "vintage_film_lab",
+      "variant": 0,
+      "description": "Faded, grainy, color-shifted retro film lab aesthetic",
+      "mood": "Retro, faded, nostalgic",
+      "type": "xmp"
+    },
+    {
+      "filename": "Color_Fade_Lab_001.xmp",
+      "name": "Color Fade Lab",
+      "category": "Vintage Film Lab",
+      "category_id": "vintage_film_lab",
+      "variant": 1,
+      "description": "Faded, grainy, color-shifted retro film lab aesthetic",
+      "mood": "Retro, faded, nostalgic",
+      "type": "xmp"
+    },
+    {
+      "filename": "Retro_Chem_002.xmp",
+      "name": "Retro Chem",
+      "category": "Vintage Film Lab",
+      "category_id": "vintage_film_lab",
+      "variant": 2,
+      "description": "Faded, grainy, color-shifted retro film lab aesthetic",
+      "mood": "Retro, faded, nostalgic",
+      "type": "xmp"
+    },
+    {
+      "filename": "Cross_Processed_003.xmp",
+      "name": "Cross Processed",
+      "category": "Vintage Film Lab",
+      "category_id": "vintage_film_lab",
+      "variant": 3,
+      "description": "Faded, grainy, color-shifted retro film lab aesthetic",
+      "mood": "Retro, faded, nostalgic",
+      "type": "xmp"
+    },
+    {
+      "filename": "Film_Ghost_004.xmp",
+      "name": "Film Ghost",
+      "category": "Vintage Film Lab",
+      "category_id": "vintage_film_lab",
+      "variant": 4,
+      "description": "Faded, grainy, color-shifted retro film lab aesthetic",
+      "mood": "Retro, faded, nostalgic",
+      "type": "xmp"
+    },
+    {
+      "filename": "Luminous_Prime_000.xmp",
+      "name": "Luminous Prime",
+      "category": "High Dynamic Luxury",
+      "category_id": "high_dynamic_luxury",
+      "variant": 0,
+      "description": "HDR-like with detailed shadows and highlights for luxury imagery",
+      "mood": "Premium, detailed, luminous",
+      "type": "xmp"
+    },
+    {
+      "filename": "HDR_Luxe_001.xmp",
+      "name": "HDR Luxe",
+      "category": "High Dynamic Luxury",
+      "category_id": "high_dynamic_luxury",
+      "variant": 1,
+      "description": "HDR-like with detailed shadows and highlights for luxury imagery",
+      "mood": "Premium, detailed, luminous",
+      "type": "xmp"
+    },
+    {
+      "filename": "Detail_Master_002.xmp",
+      "name": "Detail Master",
+      "category": "High Dynamic Luxury",
+      "category_id": "high_dynamic_luxury",
+      "variant": 2,
+      "description": "HDR-like with detailed shadows and highlights for luxury imagery",
+      "mood": "Premium, detailed, luminous",
+      "type": "xmp"
+    },
+    {
+      "filename": "Shadow_King_003.xmp",
+      "name": "Shadow King",
+      "category": "High Dynamic Luxury",
+      "category_id": "high_dynamic_luxury",
+      "variant": 3,
+      "description": "HDR-like with detailed shadows and highlights for luxury imagery",
+      "mood": "Premium, detailed, luminous",
+      "type": "xmp"
+    },
+    {
+      "filename": "Highlight_Queen_004.xmp",
+      "name": "Highlight Queen",
+      "category": "High Dynamic Luxury",
+      "category_id": "high_dynamic_luxury",
+      "variant": 4,
+      "description": "HDR-like with detailed shadows and highlights for luxury imagery",
+      "mood": "Premium, detailed, luminous",
+      "type": "xmp"
+    },
+    {
+      "filename": "Mood_Grid_000.xmp",
+      "name": "Mood Grid",
+      "category": "Dark Instagram Mood",
+      "category_id": "dark_instagram_mood",
+      "variant": 0,
+      "description": "Desaturated, crushed blacks, cool tones for social media aesthetics",
+      "mood": "Moody, cool, modern",
+      "type": "xmp"
+    },
+    {
+      "filename": "Dark_Feed_001.xmp",
+      "name": "Dark Feed",
+      "category": "Dark Instagram Mood",
+      "category_id": "dark_instagram_mood",
+      "variant": 1,
+      "description": "Desaturated, crushed blacks, cool tones for social media aesthetics",
+      "mood": "Moody, cool, modern",
+      "type": "xmp"
+    },
+    {
+      "filename": "Shadow_Scroll_002.xmp",
+      "name": "Shadow Scroll",
+      "category": "Dark Instagram Mood",
+      "category_id": "dark_instagram_mood",
+      "variant": 2,
+      "description": "Desaturated, crushed blacks, cool tones for social media aesthetics",
+      "mood": "Moody, cool, modern",
+      "type": "xmp"
+    },
+    {
+      "filename": "Noir_Social_003.xmp",
+      "name": "Noir Social",
+      "category": "Dark Instagram Mood",
+      "category_id": "dark_instagram_mood",
+      "variant": 3,
+      "description": "Desaturated, crushed blacks, cool tones for social media aesthetics",
+      "mood": "Moody, cool, modern",
+      "type": "xmp"
+    },
+    {
+      "filename": "Dim_Aesthetic_004.xmp",
+      "name": "Dim Aesthetic",
+      "category": "Dark Instagram Mood",
+      "category_id": "dark_instagram_mood",
+      "variant": 4,
+      "description": "Desaturated, crushed blacks, cool tones for social media aesthetics",
+      "mood": "Moody, cool, modern",
+      "type": "xmp"
+    },
+    {
+      "filename": "Bright_Start_000.xmp",
+      "name": "Bright Start",
+      "category": "Clean Creator Economy",
+      "category_id": "clean_creator_economy",
+      "variant": 0,
+      "description": "Bright, clean, approachable, modern aesthetic for content creators",
+      "mood": "Fresh, bright, friendly",
+      "type": "xmp"
+    },
+    {
+      "filename": "Creator_Glow_001.xmp",
+      "name": "Creator Glow",
+      "category": "Clean Creator Economy",
+      "category_id": "clean_creator_economy",
+      "variant": 1,
+      "description": "Bright, clean, approachable, modern aesthetic for content creators",
+      "mood": "Fresh, bright, friendly",
+      "type": "xmp"
+    },
+    {
+      "filename": "Fresh_Content_002.xmp",
+      "name": "Fresh Content",
+      "category": "Clean Creator Economy",
+      "category_id": "clean_creator_economy",
+      "variant": 2,
+      "description": "Bright, clean, approachable, modern aesthetic for content creators",
+      "mood": "Fresh, bright, friendly",
+      "type": "xmp"
+    },
+    {
+      "filename": "Clean_Slate_003.xmp",
+      "name": "Clean Slate",
+      "category": "Clean Creator Economy",
+      "category_id": "clean_creator_economy",
+      "variant": 3,
+      "description": "Bright, clean, approachable, modern aesthetic for content creators",
+      "mood": "Fresh, bright, friendly",
+      "type": "xmp"
+    },
+    {
+      "filename": "Modern_Voice_004.xmp",
+      "name": "Modern Voice",
+      "category": "Clean Creator Economy",
+      "category_id": "clean_creator_economy",
+      "variant": 4,
+      "description": "Bright, clean, approachable, modern aesthetic for content creators",
+      "mood": "Fresh, bright, friendly",
+      "type": "xmp"
+    },
+    {
+      "filename": "MTA_Glow_000.xmp",
+      "name": "MTA Glow",
+      "category": "Music Video Looks",
+      "category_id": "music_video_looks",
+      "variant": 0,
+      "description": "Stylized, dramatic, high-impact looks inspired by music video grading",
+      "mood": "Dynamic, stylized, intense",
+      "type": "xmp"
+    },
+    {
+      "filename": "Pop_Star_001.xmp",
+      "name": "Pop Star",
+      "category": "Music Video Looks",
+      "category_id": "music_video_looks",
+      "variant": 1,
+      "description": "Stylized, dramatic, high-impact looks inspired by music video grading",
+      "mood": "Dynamic, stylized, intense",
+      "type": "xmp"
+    },
+    {
+      "filename": "Rhythm_Light_002.xmp",
+      "name": "Rhythm Light",
+      "category": "Music Video Looks",
+      "category_id": "music_video_looks",
+      "variant": 2,
+      "description": "Stylized, dramatic, high-impact looks inspired by music video grading",
+      "mood": "Dynamic, stylized, intense",
+      "type": "xmp"
+    },
+    {
+      "filename": "Stage_Blaze_003.xmp",
+      "name": "Stage Blaze",
+      "category": "Music Video Looks",
+      "category_id": "music_video_looks",
+      "variant": 3,
+      "description": "Stylized, dramatic, high-impact looks inspired by music video grading",
+      "mood": "Dynamic, stylized, intense",
+      "type": "xmp"
+    },
+    {
+      "filename": "Beat_Drop_004.xmp",
+      "name": "Beat Drop",
+      "category": "Music Video Looks",
+      "category_id": "music_video_looks",
+      "variant": 4,
+      "description": "Stylized, dramatic, high-impact looks inspired by music video grading",
+      "mood": "Dynamic, stylized, intense",
+      "type": "xmp"
+    },
+    {
+      "filename": "Product_Prime_000.xmp",
+      "name": "Product Prime",
+      "category": "Commercial Luxury",
+      "category_id": "commercial_luxury",
+      "variant": 0,
+      "description": "Polished, professional, product-ready aesthetic for commercial work",
+      "mood": "Clean, premium, sharp",
+      "type": "xmp"
+    },
+    {
+      "filename": "Brand_Luxe_001.xmp",
+      "name": "Brand Luxe",
+      "category": "Commercial Luxury",
+      "category_id": "commercial_luxury",
+      "variant": 1,
+      "description": "Polished, professional, product-ready aesthetic for commercial work",
+      "mood": "Clean, premium, sharp",
+      "type": "xmp"
+    },
+    {
+      "filename": "Commercial_Gold_002.xmp",
+      "name": "Commercial Gold",
+      "category": "Commercial Luxury",
+      "category_id": "commercial_luxury",
+      "variant": 2,
+      "description": "Polished, professional, product-ready aesthetic for commercial work",
+      "mood": "Clean, premium, sharp",
+      "type": "xmp"
+    },
+    {
+      "filename": "Retail_Glow_003.xmp",
+      "name": "Retail Glow",
+      "category": "Commercial Luxury",
+      "category_id": "commercial_luxury",
+      "variant": 3,
+      "description": "Polished, professional, product-ready aesthetic for commercial work",
+      "mood": "Clean, premium, sharp",
+      "type": "xmp"
+    },
+    {
+      "filename": "Market_Master_004.xmp",
+      "name": "Market Master",
+      "category": "Commercial Luxury",
+      "category_id": "commercial_luxury",
+      "variant": 4,
+      "description": "Polished, professional, product-ready aesthetic for commercial work",
+      "mood": "Clean, premium, sharp",
+      "type": "xmp"
+    },
+    {
+      "filename": "Stream_Queen_000.xmp",
+      "name": "Stream Queen",
+      "category": "Netflix Inspired",
+      "category_id": "netflix_inspired",
+      "variant": 0,
+      "description": "Cinematic teal/orange with filmic qualities inspired by streaming content",
+      "mood": "Cinematic, binge-worthy, polished",
+      "type": "xmp"
+    },
+    {
+      "filename": "Binge_Night_001.xmp",
+      "name": "Binge Night",
+      "category": "Netflix Inspired",
+      "category_id": "netflix_inspired",
+      "variant": 1,
+      "description": "Cinematic teal/orange with filmic qualities inspired by streaming content",
+      "mood": "Cinematic, binge-worthy, polished",
+      "type": "xmp"
+    },
+    {
+      "filename": "Teal_Drama_002.xmp",
+      "name": "Teal Drama",
+      "category": "Netflix Inspired",
+      "category_id": "netflix_inspired",
+      "variant": 2,
+      "description": "Cinematic teal/orange with filmic qualities inspired by streaming content",
+      "mood": "Cinematic, binge-worthy, polished",
+      "type": "xmp"
+    },
+    {
+      "filename": "Series_Glow_003.xmp",
+      "name": "Series Glow",
+      "category": "Netflix Inspired",
+      "category_id": "netflix_inspired",
+      "variant": 3,
+      "description": "Cinematic teal/orange with filmic qualities inspired by streaming content",
+      "mood": "Cinematic, binge-worthy, polished",
+      "type": "xmp"
+    },
+    {
+      "filename": "Episode_One_004.xmp",
+      "name": "Episode One",
+      "category": "Netflix Inspired",
+      "category_id": "netflix_inspired",
+      "variant": 4,
+      "description": "Cinematic teal/orange with filmic qualities inspired by streaming content",
+      "mood": "Cinematic, binge-worthy, polished",
+      "type": "xmp"
+    },
+    {
+      "filename": "Hereditary_Mood_000.xmp",
+      "name": "Hereditary Mood",
+      "category": "A24 Inspired",
+      "category_id": "a24_inspired",
+      "variant": 0,
+      "description": "Artistic, unconventional, mood-driven looks inspired by A24 films",
+      "mood": "Arthouse, unconventional, evocative",
+      "type": "xmp"
+    },
+    {
+      "filename": "Moonlight_Glow_001.xmp",
+      "name": "Moonlight Glow",
+      "category": "A24 Inspired",
+      "category_id": "a24_inspired",
+      "variant": 1,
+      "description": "Artistic, unconventional, mood-driven looks inspired by A24 films",
+      "mood": "Arthouse, unconventional, evocative",
+      "type": "xmp"
+    },
+    {
+      "filename": "Midsommar_Haze_002.xmp",
+      "name": "Midsommar Haze",
+      "category": "A24 Inspired",
+      "category_id": "a24_inspired",
+      "variant": 2,
+      "description": "Artistic, unconventional, mood-driven looks inspired by A24 films",
+      "mood": "Arthouse, unconventional, evocative",
+      "type": "xmp"
+    },
+    {
+      "filename": "Ex_Machina_003.xmp",
+      "name": "Ex Machina",
+      "category": "A24 Inspired",
+      "category_id": "a24_inspired",
+      "variant": 3,
+      "description": "Artistic, unconventional, mood-driven looks inspired by A24 films",
+      "mood": "Arthouse, unconventional, evocative",
+      "type": "xmp"
+    },
+    {
+      "filename": "Green_Knight_004.xmp",
+      "name": "Green Knight",
+      "category": "A24 Inspired",
+      "category_id": "a24_inspired",
+      "variant": 4,
+      "description": "Artistic, unconventional, mood-driven looks inspired by A24 films",
+      "mood": "Arthouse, unconventional, evocative",
+      "type": "xmp"
+    },
+    {
+      "filename": "Portra_160_000.xmp",
+      "name": "Portra 160",
+      "category": "Kodak Portra Emulation",
+      "category_id": "kodak_portra_emulation",
+      "variant": 0,
+      "description": "Warm skin tones, soft contrast, film grain emulating Kodak Portra stocks",
+      "mood": "Warm, filmic, timeless",
+      "type": "xmp"
+    },
+    {
+      "filename": "Portra_400_001.xmp",
+      "name": "Portra 400",
+      "category": "Kodak Portra Emulation",
+      "category_id": "kodak_portra_emulation",
+      "variant": 1,
+      "description": "Warm skin tones, soft contrast, film grain emulating Kodak Portra stocks",
+      "mood": "Warm, filmic, timeless",
+      "type": "xmp"
+    },
+    {
+      "filename": "Portra_800_002.xmp",
+      "name": "Portra 800",
+      "category": "Kodak Portra Emulation",
+      "category_id": "kodak_portra_emulation",
+      "variant": 2,
+      "description": "Warm skin tones, soft contrast, film grain emulating Kodak Portra stocks",
+      "mood": "Warm, filmic, timeless",
+      "type": "xmp"
+    },
+    {
+      "filename": "Portra_Warm_003.xmp",
+      "name": "Portra Warm",
+      "category": "Kodak Portra Emulation",
+      "category_id": "kodak_portra_emulation",
+      "variant": 3,
+      "description": "Warm skin tones, soft contrast, film grain emulating Kodak Portra stocks",
+      "mood": "Warm, filmic, timeless",
+      "type": "xmp"
+    },
+    {
+      "filename": "Portra_Skin_004.xmp",
+      "name": "Portra Skin",
+      "category": "Kodak Portra Emulation",
+      "category_id": "kodak_portra_emulation",
+      "variant": 4,
+      "description": "Warm skin tones, soft contrast, film grain emulating Kodak Portra stocks",
+      "mood": "Warm, filmic, timeless",
+      "type": "xmp"
+    },
+    {
+      "filename": "Fuji_Pastel_000.xmp",
+      "name": "Fuji Pastel",
+      "category": "Fuji 400H Emulation",
+      "category_id": "fuji_400h_emulation",
+      "variant": 0,
+      "description": "Pastel tones, green shadows, airy feel emulating Fuji Pro 400H",
+      "mood": "Soft, pastel, delicate",
+      "type": "xmp"
+    },
+    {
+      "filename": "400H_Soft_001.xmp",
+      "name": "400H Soft",
+      "category": "Fuji 400H Emulation",
+      "category_id": "fuji_400h_emulation",
+      "variant": 1,
+      "description": "Pastel tones, green shadows, airy feel emulating Fuji Pro 400H",
+      "mood": "Soft, pastel, delicate",
+      "type": "xmp"
+    },
+    {
+      "filename": "Pro_Green_002.xmp",
+      "name": "Pro Green",
+      "category": "Fuji 400H Emulation",
+      "category_id": "fuji_400h_emulation",
+      "variant": 2,
+      "description": "Pastel tones, green shadows, airy feel emulating Fuji Pro 400H",
+      "mood": "Soft, pastel, delicate",
+      "type": "xmp"
+    },
+    {
+      "filename": "Fuji_Air_003.xmp",
+      "name": "Fuji Air",
+      "category": "Fuji 400H Emulation",
+      "category_id": "fuji_400h_emulation",
+      "variant": 3,
+      "description": "Pastel tones, green shadows, airy feel emulating Fuji Pro 400H",
+      "mood": "Soft, pastel, delicate",
+      "type": "xmp"
+    },
+    {
+      "filename": "Sakura_Tone_004.xmp",
+      "name": "Sakura Tone",
+      "category": "Fuji 400H Emulation",
+      "category_id": "fuji_400h_emulation",
+      "variant": 4,
+      "description": "Pastel tones, green shadows, airy feel emulating Fuji Pro 400H",
+      "mood": "Soft, pastel, delicate",
+      "type": "xmp"
+    },
+    {
+      "filename": "Alexa_Log_000.xmp",
+      "name": "Alexa Log",
+      "category": "ARRI Alexa Look",
+      "category_id": "arri_alexa_look",
+      "variant": 0,
+      "description": "Digital cinema natural skin tones with wide dynamic range emulation",
+      "mood": "Cinematic, natural, professional",
+      "type": "xmp"
+    },
+    {
+      "filename": "ARRI_Natural_001.xmp",
+      "name": "ARRI Natural",
+      "category": "ARRI Alexa Look",
+      "category_id": "arri_alexa_look",
+      "variant": 1,
+      "description": "Digital cinema natural skin tones with wide dynamic range emulation",
+      "mood": "Cinematic, natural, professional",
+      "type": "xmp"
+    },
+    {
+      "filename": "Cinema_Skin_002.xmp",
+      "name": "Cinema Skin",
+      "category": "ARRI Alexa Look",
+      "category_id": "arri_alexa_look",
+      "variant": 2,
+      "description": "Digital cinema natural skin tones with wide dynamic range emulation",
+      "mood": "Cinematic, natural, professional",
+      "type": "xmp"
+    },
+    {
+      "filename": "Digital_Film_003.xmp",
+      "name": "Digital Film",
+      "category": "ARRI Alexa Look",
+      "category_id": "arri_alexa_look",
+      "variant": 3,
+      "description": "Digital cinema natural skin tones with wide dynamic range emulation",
+      "mood": "Cinematic, natural, professional",
+      "type": "xmp"
+    },
+    {
+      "filename": "Alexa_Wide_004.xmp",
+      "name": "Alexa Wide",
+      "category": "ARRI Alexa Look",
+      "category_id": "arri_alexa_look",
+      "variant": 4,
+      "description": "Digital cinema natural skin tones with wide dynamic range emulation",
+      "mood": "Cinematic, natural, professional",
+      "type": "xmp"
+    },
+    {
+      "filename": "800T_Tungsten_000.xmp",
+      "name": "800T Tungsten",
+      "category": "CineStill 800T Emulation",
+      "category_id": "cinestill_800t_emulation",
+      "variant": 0,
+      "description": "Tungsten balance, halation glow, night film characteristics",
+      "mood": "Nocturnal, glowing, cinematic",
+      "type": "xmp"
+    },
+    {
+      "filename": "CineStill_Night_001.xmp",
+      "name": "CineStill Night",
+      "category": "CineStill 800T Emulation",
+      "category_id": "cinestill_800t_emulation",
+      "variant": 1,
+      "description": "Tungsten balance, halation glow, night film characteristics",
+      "mood": "Nocturnal, glowing, cinematic",
+      "type": "xmp"
+    },
+    {
+      "filename": "Halation_Glow_002.xmp",
+      "name": "Halation Glow",
+      "category": "CineStill 800T Emulation",
+      "category_id": "cinestill_800t_emulation",
+      "variant": 2,
+      "description": "Tungsten balance, halation glow, night film characteristics",
+      "mood": "Nocturnal, glowing, cinematic",
+      "type": "xmp"
+    },
+    {
+      "filename": "Tungsten_Film_003.xmp",
+      "name": "Tungsten Film",
+      "category": "CineStill 800T Emulation",
+      "category_id": "cinestill_800t_emulation",
+      "variant": 3,
+      "description": "Tungsten balance, halation glow, night film characteristics",
+      "mood": "Nocturnal, glowing, cinematic",
+      "type": "xmp"
+    },
+    {
+      "filename": "Night_Still_004.xmp",
+      "name": "Night Still",
+      "category": "CineStill 800T Emulation",
+      "category_id": "cinestill_800t_emulation",
+      "variant": 4,
+      "description": "Tungsten balance, halation glow, night film characteristics",
+      "mood": "Nocturnal, glowing, cinematic",
+      "type": "xmp"
+    },
+    {
+      "filename": "Silver_Keep_000.xmp",
+      "name": "Silver Keep",
+      "category": "Bleach Bypass",
+      "category_id": "bleach_bypass",
+      "variant": 0,
+      "description": "Silver retention, high contrast, desaturated bleach bypass film process",
+      "mood": "Gritty, stark, intense",
+      "type": "xmp"
+    },
+    {
+      "filename": "Bleach_Raw_001.xmp",
+      "name": "Bleach Raw",
+      "category": "Bleach Bypass",
+      "category_id": "bleach_bypass",
+      "variant": 1,
+      "description": "Silver retention, high contrast, desaturated bleach bypass film process",
+      "mood": "Gritty, stark, intense",
+      "type": "xmp"
+    },
+    {
+      "filename": "Skip_Bath_002.xmp",
+      "name": "Skip Bath",
+      "category": "Bleach Bypass",
+      "category_id": "bleach_bypass",
+      "variant": 2,
+      "description": "Silver retention, high contrast, desaturated bleach bypass film process",
+      "mood": "Gritty, stark, intense",
+      "type": "xmp"
+    },
+    {
+      "filename": "Chrome_Grain_003.xmp",
+      "name": "Chrome Grain",
+      "category": "Bleach Bypass",
+      "category_id": "bleach_bypass",
+      "variant": 3,
+      "description": "Silver retention, high contrast, desaturated bleach bypass film process",
+      "mood": "Gritty, stark, intense",
+      "type": "xmp"
+    },
+    {
+      "filename": "Bypass_Hard_004.xmp",
+      "name": "Bypass Hard",
+      "category": "Bleach Bypass",
+      "category_id": "bleach_bypass",
+      "variant": 4,
+      "description": "Silver retention, high contrast, desaturated bleach bypass film process",
+      "mood": "Gritty, stark, intense",
+      "type": "xmp"
+    },
+    {
+      "filename": "Blockbuster_000.xmp",
+      "name": "Blockbuster",
+      "category": "Teal & Orange Modern",
+      "category_id": "teal_orange_modern",
+      "variant": 0,
+      "description": "Complementary colors with modern cinematic teal and orange grading",
+      "mood": "Blockbuster, cinematic, contemporary",
+      "type": "xmp"
+    },
+    {
+      "filename": "Teal_Fire_001.xmp",
+      "name": "Teal Fire",
+      "category": "Teal & Orange Modern",
+      "category_id": "teal_orange_modern",
+      "variant": 1,
+      "description": "Complementary colors with modern cinematic teal and orange grading",
+      "mood": "Blockbuster, cinematic, contemporary",
+      "type": "xmp"
+    },
+    {
+      "filename": "Orange_Wave_002.xmp",
+      "name": "Orange Wave",
+      "category": "Teal & Orange Modern",
+      "category_id": "teal_orange_modern",
+      "variant": 2,
+      "description": "Complementary colors with modern cinematic teal and orange grading",
+      "mood": "Blockbuster, cinematic, contemporary",
+      "type": "xmp"
+    },
+    {
+      "filename": "Modern_Cinema_003.xmp",
+      "name": "Modern Cinema",
+      "category": "Teal & Orange Modern",
+      "category_id": "teal_orange_modern",
+      "variant": 3,
+      "description": "Complementary colors with modern cinematic teal and orange grading",
+      "mood": "Blockbuster, cinematic, contemporary",
+      "type": "xmp"
+    },
+    {
+      "filename": "Complementary_004.xmp",
+      "name": "Complementary",
+      "category": "Teal & Orange Modern",
+      "category_id": "teal_orange_modern",
+      "variant": 4,
+      "description": "Complementary colors with modern cinematic teal and orange grading",
+      "mood": "Blockbuster, cinematic, contemporary",
+      "type": "xmp"
+    }
+  ],
+  "cube_luts": [
+    {
+      "filename": "Nocturne_Lux_000.cube",
+      "name": "Nocturne Lux",
+      "category": "Luxury Editorial",
+      "category_id": "luxury_editorial",
+      "variant": 0,
+      "description": "Rich blacks, soft contrast, warm skin tones for high-end editorial photography",
+      "mood": "Sophisticated, elegant, polished",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Velvet_Noir_001.cube",
+      "name": "Velvet Noir",
+      "category": "Luxury Editorial",
+      "category_id": "luxury_editorial",
+      "variant": 1,
+      "description": "Rich blacks, soft contrast, warm skin tones for high-end editorial photography",
+      "mood": "Sophisticated, elegant, polished",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Opulence_002.cube",
+      "name": "Opulence",
+      "category": "Luxury Editorial",
+      "category_id": "luxury_editorial",
+      "variant": 2,
+      "description": "Rich blacks, soft contrast, warm skin tones for high-end editorial photography",
+      "mood": "Sophisticated, elegant, polished",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Silk_Embers_003.cube",
+      "name": "Silk Embers",
+      "category": "Luxury Editorial",
+      "category_id": "luxury_editorial",
+      "variant": 3,
+      "description": "Rich blacks, soft contrast, warm skin tones for high-end editorial photography",
+      "mood": "Sophisticated, elegant, polished",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Champagne_Dusk_004.cube",
+      "name": "Champagne Dusk",
+      "category": "Luxury Editorial",
+      "category_id": "luxury_editorial",
+      "variant": 4,
+      "description": "Rich blacks, soft contrast, warm skin tones for high-end editorial photography",
+      "mood": "Sophisticated, elegant, polished",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Obsidian_Teal_000.cube",
+      "name": "Obsidian Teal",
+      "category": "Cinematic Shadows",
+      "category_id": "cinematic_shadows",
+      "variant": 0,
+      "description": "Crushed blacks with teal shadows and warm highlights for cinema-inspired images",
+      "mood": "Dramatic, cinematic, bold",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Crimson_Shadow_001.cube",
+      "name": "Crimson Shadow",
+      "category": "Cinematic Shadows",
+      "category_id": "cinematic_shadows",
+      "variant": 1,
+      "description": "Crushed blacks with teal shadows and warm highlights for cinema-inspired images",
+      "mood": "Dramatic, cinematic, bold",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Abyss_Glow_002.cube",
+      "name": "Abyss Glow",
+      "category": "Cinematic Shadows",
+      "category_id": "cinematic_shadows",
+      "variant": 2,
+      "description": "Crushed blacks with teal shadows and warm highlights for cinema-inspired images",
+      "mood": "Dramatic, cinematic, bold",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Tungsten_Dreams_003.cube",
+      "name": "Tungsten Dreams",
+      "category": "Cinematic Shadows",
+      "category_id": "cinematic_shadows",
+      "variant": 3,
+      "description": "Crushed blacks with teal shadows and warm highlights for cinema-inspired images",
+      "mood": "Dramatic, cinematic, bold",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Midnight_Cinema_004.cube",
+      "name": "Midnight Cinema",
+      "category": "Cinematic Shadows",
+      "category_id": "cinematic_shadows",
+      "variant": 4,
+      "description": "Crushed blacks with teal shadows and warm highlights for cinema-inspired images",
+      "mood": "Dramatic, cinematic, bold",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Kodachrome_Soul_000.cube",
+      "name": "Kodachrome Soul",
+      "category": "Analog Film",
+      "category_id": "analog_film",
+      "variant": 0,
+      "description": "Film grain, muted colors, and vintage feel emulating classic film stocks",
+      "mood": "Nostalgic, warm, organic",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Film_Haven_001.cube",
+      "name": "Film Haven",
+      "category": "Analog Film",
+      "category_id": "analog_film",
+      "variant": 1,
+      "description": "Film grain, muted colors, and vintage feel emulating classic film stocks",
+      "mood": "Nostalgic, warm, organic",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Dust_and_Grain_002.cube",
+      "name": "Dust & Grain",
+      "category": "Analog Film",
+      "category_id": "analog_film",
+      "variant": 2,
+      "description": "Film grain, muted colors, and vintage feel emulating classic film stocks",
+      "mood": "Nostalgic, warm, organic",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Retrograde_003.cube",
+      "name": "Retrograde",
+      "category": "Analog Film",
+      "category_id": "analog_film",
+      "variant": 3,
+      "description": "Film grain, muted colors, and vintage feel emulating classic film stocks",
+      "mood": "Nostalgic, warm, organic",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Analog_Hearts_004.cube",
+      "name": "Analog Hearts",
+      "category": "Analog Film",
+      "category_id": "analog_film",
+      "variant": 4,
+      "description": "Film grain, muted colors, and vintage feel emulating classic film stocks",
+      "mood": "Nostalgic, warm, organic",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Raw_Truth_000.cube",
+      "name": "Raw Truth",
+      "category": "Moody Documentary",
+      "category_id": "moody_documentary",
+      "variant": 0,
+      "description": "Desaturated, contrasty, journalistic style for documentary storytelling",
+      "mood": "Raw, honest, gritty",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Street_Witness_001.cube",
+      "name": "Street Witness",
+      "category": "Moody Documentary",
+      "category_id": "moody_documentary",
+      "variant": 1,
+      "description": "Desaturated, contrasty, journalistic style for documentary storytelling",
+      "mood": "Raw, honest, gritty",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Shadow_Journal_002.cube",
+      "name": "Shadow Journal",
+      "category": "Moody Documentary",
+      "category_id": "moody_documentary",
+      "variant": 2,
+      "description": "Desaturated, contrasty, journalistic style for documentary storytelling",
+      "mood": "Raw, honest, gritty",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Urban_Decay_003.cube",
+      "name": "Urban Decay",
+      "category": "Moody Documentary",
+      "category_id": "moody_documentary",
+      "variant": 3,
+      "description": "Desaturated, contrasty, journalistic style for documentary storytelling",
+      "mood": "Raw, honest, gritty",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Light_Chaser_004.cube",
+      "name": "Light Chaser",
+      "category": "Moody Documentary",
+      "category_id": "moody_documentary",
+      "variant": 4,
+      "description": "Desaturated, contrasty, journalistic style for documentary storytelling",
+      "mood": "Raw, honest, gritty",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Blush_Veil_000.cube",
+      "name": "Blush Veil",
+      "category": "Dreamy Wedding",
+      "category_id": "dreamy_wedding",
+      "variant": 0,
+      "description": "Soft, romantic, warm highlights with pastel tones for wedding photography",
+      "mood": "Romantic, ethereal, tender",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Golden_Vows_001.cube",
+      "name": "Golden Vows",
+      "category": "Dreamy Wedding",
+      "category_id": "dreamy_wedding",
+      "variant": 1,
+      "description": "Soft, romantic, warm highlights with pastel tones for wedding photography",
+      "mood": "Romantic, ethereal, tender",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Ethereal_Love_002.cube",
+      "name": "Ethereal Love",
+      "category": "Dreamy Wedding",
+      "category_id": "dreamy_wedding",
+      "variant": 2,
+      "description": "Soft, romantic, warm highlights with pastel tones for wedding photography",
+      "mood": "Romantic, ethereal, tender",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Pastel_Promise_003.cube",
+      "name": "Pastel Promise",
+      "category": "Dreamy Wedding",
+      "category_id": "dreamy_wedding",
+      "variant": 3,
+      "description": "Soft, romantic, warm highlights with pastel tones for wedding photography",
+      "mood": "Romantic, ethereal, tender",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Romantic_Haze_004.cube",
+      "name": "Romantic Haze",
+      "category": "Dreamy Wedding",
+      "category_id": "dreamy_wedding",
+      "variant": 4,
+      "description": "Soft, romantic, warm highlights with pastel tones for wedding photography",
+      "mood": "Romantic, ethereal, tender",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Neon_Runway_000.cube",
+      "name": "Neon Runway",
+      "category": "Hyperreal Fashion",
+      "category_id": "hyperreal_fashion",
+      "variant": 0,
+      "description": "Punchy, saturated, with flawless skin rendering for fashion editorials",
+      "mood": "Bold, vibrant, high-impact",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Editorial_Punch_001.cube",
+      "name": "Editorial Punch",
+      "category": "Hyperreal Fashion",
+      "category_id": "hyperreal_fashion",
+      "variant": 1,
+      "description": "Punchy, saturated, with flawless skin rendering for fashion editorials",
+      "mood": "Bold, vibrant, high-impact",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Glamour_Burst_002.cube",
+      "name": "Glamour Burst",
+      "category": "Hyperreal Fashion",
+      "category_id": "hyperreal_fashion",
+      "variant": 2,
+      "description": "Punchy, saturated, with flawless skin rendering for fashion editorials",
+      "mood": "Bold, vibrant, high-impact",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Haute_Glow_003.cube",
+      "name": "Haute Glow",
+      "category": "Hyperreal Fashion",
+      "category_id": "hyperreal_fashion",
+      "variant": 3,
+      "description": "Punchy, saturated, with flawless skin rendering for fashion editorials",
+      "mood": "Bold, vibrant, high-impact",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Vogue_Voltage_004.cube",
+      "name": "Vogue Voltage",
+      "category": "Hyperreal Fashion",
+      "category_id": "hyperreal_fashion",
+      "variant": 4,
+      "description": "Punchy, saturated, with flawless skin rendering for fashion editorials",
+      "mood": "Bold, vibrant, high-impact",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Cyber_Glow_000.cube",
+      "name": "Cyber Glow",
+      "category": "Night Neon",
+      "category_id": "night_neon",
+      "variant": 0,
+      "description": "Cyberpunk-inspired with neon glow enhancement and deep shadow work",
+      "mood": "Electric, urban, futuristic",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Neon_Drift_001.cube",
+      "name": "Neon Drift",
+      "category": "Night Neon",
+      "category_id": "night_neon",
+      "variant": 1,
+      "description": "Cyberpunk-inspired with neon glow enhancement and deep shadow work",
+      "mood": "Electric, urban, futuristic",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Electric_Avenue_002.cube",
+      "name": "Electric Avenue",
+      "category": "Night Neon",
+      "category_id": "night_neon",
+      "variant": 2,
+      "description": "Cyberpunk-inspired with neon glow enhancement and deep shadow work",
+      "mood": "Electric, urban, futuristic",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Tokyo_Midnight_003.cube",
+      "name": "Tokyo Midnight",
+      "category": "Night Neon",
+      "category_id": "night_neon",
+      "variant": 3,
+      "description": "Cyberpunk-inspired with neon glow enhancement and deep shadow work",
+      "mood": "Electric, urban, futuristic",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Laser_Dreams_004.cube",
+      "name": "Laser Dreams",
+      "category": "Night Neon",
+      "category_id": "night_neon",
+      "variant": 4,
+      "description": "Cyberpunk-inspired with neon glow enhancement and deep shadow work",
+      "mood": "Electric, urban, futuristic",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Golden_Horizon_000.cube",
+      "name": "Golden Horizon",
+      "category": "Luxury Travel",
+      "category_id": "luxury_travel",
+      "variant": 0,
+      "description": "Golden hour tones, rich landscapes, and vivid colors for travel content",
+      "mood": "Wanderlust, golden, rich",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Safari_Luxe_001.cube",
+      "name": "Safari Luxe",
+      "category": "Luxury Travel",
+      "category_id": "luxury_travel",
+      "variant": 1,
+      "description": "Golden hour tones, rich landscapes, and vivid colors for travel content",
+      "mood": "Wanderlust, golden, rich",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Tuscan_Sun_002.cube",
+      "name": "Tuscan Sun",
+      "category": "Luxury Travel",
+      "category_id": "luxury_travel",
+      "variant": 2,
+      "description": "Golden hour tones, rich landscapes, and vivid colors for travel content",
+      "mood": "Wanderlust, golden, rich",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Azure_Escape_003.cube",
+      "name": "Azure Escape",
+      "category": "Luxury Travel",
+      "category_id": "luxury_travel",
+      "variant": 3,
+      "description": "Golden hour tones, rich landscapes, and vivid colors for travel content",
+      "mood": "Wanderlust, golden, rich",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Wanderlust_Gold_004.cube",
+      "name": "Wanderlust Gold",
+      "category": "Luxury Travel",
+      "category_id": "luxury_travel",
+      "variant": 4,
+      "description": "Golden hour tones, rich landscapes, and vivid colors for travel content",
+      "mood": "Wanderlust, golden, rich",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Nordic_Air_000.cube",
+      "name": "Nordic Air",
+      "category": "Minimal Scandinavian",
+      "category_id": "minimal_scandinavian",
+      "variant": 0,
+      "description": "Clean, bright, muted, airy aesthetic inspired by Scandinavian design",
+      "mood": "Calm, airy, minimal",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Oslo_Light_001.cube",
+      "name": "Oslo Light",
+      "category": "Minimal Scandinavian",
+      "category_id": "minimal_scandinavian",
+      "variant": 1,
+      "description": "Clean, bright, muted, airy aesthetic inspired by Scandinavian design",
+      "mood": "Calm, airy, minimal",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Fjord_Mist_002.cube",
+      "name": "Fjord Mist",
+      "category": "Minimal Scandinavian",
+      "category_id": "minimal_scandinavian",
+      "variant": 2,
+      "description": "Clean, bright, muted, airy aesthetic inspired by Scandinavian design",
+      "mood": "Calm, airy, minimal",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Clean_Linen_003.cube",
+      "name": "Clean Linen",
+      "category": "Minimal Scandinavian",
+      "category_id": "minimal_scandinavian",
+      "variant": 3,
+      "description": "Clean, bright, muted, airy aesthetic inspired by Scandinavian design",
+      "mood": "Calm, airy, minimal",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Snow_Whisper_004.cube",
+      "name": "Snow Whisper",
+      "category": "Minimal Scandinavian",
+      "category_id": "minimal_scandinavian",
+      "variant": 4,
+      "description": "Clean, bright, muted, airy aesthetic inspired by Scandinavian design",
+      "mood": "Calm, airy, minimal",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Neon_Dystopia_000.cube",
+      "name": "Neon Dystopia",
+      "category": "Cyberpunk Cinema",
+      "category_id": "cyberpunk_cinema",
+      "variant": 0,
+      "description": "Cyan/magenta split with high contrast for futuristic cyberpunk visuals",
+      "mood": "Futuristic, neon, dystopian",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Synth_City_001.cube",
+      "name": "Synth City",
+      "category": "Cyberpunk Cinema",
+      "category_id": "cyberpunk_cinema",
+      "variant": 1,
+      "description": "Cyan/magenta split with high contrast for futuristic cyberpunk visuals",
+      "mood": "Futuristic, neon, dystopian",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Matrix_Haze_002.cube",
+      "name": "Matrix Haze",
+      "category": "Cyberpunk Cinema",
+      "category_id": "cyberpunk_cinema",
+      "variant": 2,
+      "description": "Cyan/magenta split with high contrast for futuristic cyberpunk visuals",
+      "mood": "Futuristic, neon, dystopian",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Future_Shock_003.cube",
+      "name": "Future Shock",
+      "category": "Cyberpunk Cinema",
+      "category_id": "cyberpunk_cinema",
+      "variant": 3,
+      "description": "Cyan/magenta split with high contrast for futuristic cyberpunk visuals",
+      "mood": "Futuristic, neon, dystopian",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Chrome_Dreams_004.cube",
+      "name": "Chrome Dreams",
+      "category": "Cyberpunk Cinema",
+      "category_id": "cyberpunk_cinema",
+      "variant": 4,
+      "description": "Cyan/magenta split with high contrast for futuristic cyberpunk visuals",
+      "mood": "Futuristic, neon, dystopian",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Shadow_Play_000.cube",
+      "name": "Shadow Play",
+      "category": "Neo Noir",
+      "category_id": "neo_noir",
+      "variant": 0,
+      "description": "Dramatic shadows, high contrast, moody lighting inspired by noir cinema",
+      "mood": "Mysterious, dramatic, dark",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Night_Crawler_001.cube",
+      "name": "Night Crawler",
+      "category": "Neo Noir",
+      "category_id": "neo_noir",
+      "variant": 1,
+      "description": "Dramatic shadows, high contrast, moody lighting inspired by noir cinema",
+      "mood": "Mysterious, dramatic, dark",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Dark_Paradise_002.cube",
+      "name": "Dark Paradise",
+      "category": "Neo Noir",
+      "category_id": "neo_noir",
+      "variant": 2,
+      "description": "Dramatic shadows, high contrast, moody lighting inspired by noir cinema",
+      "mood": "Mysterious, dramatic, dark",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Sin_City_003.cube",
+      "name": "Sin City",
+      "category": "Neo Noir",
+      "category_id": "neo_noir",
+      "variant": 3,
+      "description": "Dramatic shadows, high contrast, moody lighting inspired by noir cinema",
+      "mood": "Mysterious, dramatic, dark",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Velvet_Shadows_004.cube",
+      "name": "Velvet Shadows",
+      "category": "Neo Noir",
+      "category_id": "neo_noir",
+      "variant": 4,
+      "description": "Dramatic shadows, high contrast, moody lighting inspired by noir cinema",
+      "mood": "Mysterious, dramatic, dark",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Faded_Memories_000.cube",
+      "name": "Faded Memories",
+      "category": "Vintage Film Lab",
+      "category_id": "vintage_film_lab",
+      "variant": 0,
+      "description": "Faded, grainy, color-shifted retro film lab aesthetic",
+      "mood": "Retro, faded, nostalgic",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Color_Fade_Lab_001.cube",
+      "name": "Color Fade Lab",
+      "category": "Vintage Film Lab",
+      "category_id": "vintage_film_lab",
+      "variant": 1,
+      "description": "Faded, grainy, color-shifted retro film lab aesthetic",
+      "mood": "Retro, faded, nostalgic",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Retro_Chem_002.cube",
+      "name": "Retro Chem",
+      "category": "Vintage Film Lab",
+      "category_id": "vintage_film_lab",
+      "variant": 2,
+      "description": "Faded, grainy, color-shifted retro film lab aesthetic",
+      "mood": "Retro, faded, nostalgic",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Cross_Processed_003.cube",
+      "name": "Cross Processed",
+      "category": "Vintage Film Lab",
+      "category_id": "vintage_film_lab",
+      "variant": 3,
+      "description": "Faded, grainy, color-shifted retro film lab aesthetic",
+      "mood": "Retro, faded, nostalgic",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Film_Ghost_004.cube",
+      "name": "Film Ghost",
+      "category": "Vintage Film Lab",
+      "category_id": "vintage_film_lab",
+      "variant": 4,
+      "description": "Faded, grainy, color-shifted retro film lab aesthetic",
+      "mood": "Retro, faded, nostalgic",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Luminous_Prime_000.cube",
+      "name": "Luminous Prime",
+      "category": "High Dynamic Luxury",
+      "category_id": "high_dynamic_luxury",
+      "variant": 0,
+      "description": "HDR-like with detailed shadows and highlights for luxury imagery",
+      "mood": "Premium, detailed, luminous",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "HDR_Luxe_001.cube",
+      "name": "HDR Luxe",
+      "category": "High Dynamic Luxury",
+      "category_id": "high_dynamic_luxury",
+      "variant": 1,
+      "description": "HDR-like with detailed shadows and highlights for luxury imagery",
+      "mood": "Premium, detailed, luminous",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Detail_Master_002.cube",
+      "name": "Detail Master",
+      "category": "High Dynamic Luxury",
+      "category_id": "high_dynamic_luxury",
+      "variant": 2,
+      "description": "HDR-like with detailed shadows and highlights for luxury imagery",
+      "mood": "Premium, detailed, luminous",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Shadow_King_003.cube",
+      "name": "Shadow King",
+      "category": "High Dynamic Luxury",
+      "category_id": "high_dynamic_luxury",
+      "variant": 3,
+      "description": "HDR-like with detailed shadows and highlights for luxury imagery",
+      "mood": "Premium, detailed, luminous",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Highlight_Queen_004.cube",
+      "name": "Highlight Queen",
+      "category": "High Dynamic Luxury",
+      "category_id": "high_dynamic_luxury",
+      "variant": 4,
+      "description": "HDR-like with detailed shadows and highlights for luxury imagery",
+      "mood": "Premium, detailed, luminous",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Mood_Grid_000.cube",
+      "name": "Mood Grid",
+      "category": "Dark Instagram Mood",
+      "category_id": "dark_instagram_mood",
+      "variant": 0,
+      "description": "Desaturated, crushed blacks, cool tones for social media aesthetics",
+      "mood": "Moody, cool, modern",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Dark_Feed_001.cube",
+      "name": "Dark Feed",
+      "category": "Dark Instagram Mood",
+      "category_id": "dark_instagram_mood",
+      "variant": 1,
+      "description": "Desaturated, crushed blacks, cool tones for social media aesthetics",
+      "mood": "Moody, cool, modern",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Shadow_Scroll_002.cube",
+      "name": "Shadow Scroll",
+      "category": "Dark Instagram Mood",
+      "category_id": "dark_instagram_mood",
+      "variant": 2,
+      "description": "Desaturated, crushed blacks, cool tones for social media aesthetics",
+      "mood": "Moody, cool, modern",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Noir_Social_003.cube",
+      "name": "Noir Social",
+      "category": "Dark Instagram Mood",
+      "category_id": "dark_instagram_mood",
+      "variant": 3,
+      "description": "Desaturated, crushed blacks, cool tones for social media aesthetics",
+      "mood": "Moody, cool, modern",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Dim_Aesthetic_004.cube",
+      "name": "Dim Aesthetic",
+      "category": "Dark Instagram Mood",
+      "category_id": "dark_instagram_mood",
+      "variant": 4,
+      "description": "Desaturated, crushed blacks, cool tones for social media aesthetics",
+      "mood": "Moody, cool, modern",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Bright_Start_000.cube",
+      "name": "Bright Start",
+      "category": "Clean Creator Economy",
+      "category_id": "clean_creator_economy",
+      "variant": 0,
+      "description": "Bright, clean, approachable, modern aesthetic for content creators",
+      "mood": "Fresh, bright, friendly",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Creator_Glow_001.cube",
+      "name": "Creator Glow",
+      "category": "Clean Creator Economy",
+      "category_id": "clean_creator_economy",
+      "variant": 1,
+      "description": "Bright, clean, approachable, modern aesthetic for content creators",
+      "mood": "Fresh, bright, friendly",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Fresh_Content_002.cube",
+      "name": "Fresh Content",
+      "category": "Clean Creator Economy",
+      "category_id": "clean_creator_economy",
+      "variant": 2,
+      "description": "Bright, clean, approachable, modern aesthetic for content creators",
+      "mood": "Fresh, bright, friendly",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Clean_Slate_003.cube",
+      "name": "Clean Slate",
+      "category": "Clean Creator Economy",
+      "category_id": "clean_creator_economy",
+      "variant": 3,
+      "description": "Bright, clean, approachable, modern aesthetic for content creators",
+      "mood": "Fresh, bright, friendly",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Modern_Voice_004.cube",
+      "name": "Modern Voice",
+      "category": "Clean Creator Economy",
+      "category_id": "clean_creator_economy",
+      "variant": 4,
+      "description": "Bright, clean, approachable, modern aesthetic for content creators",
+      "mood": "Fresh, bright, friendly",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "MTA_Glow_000.cube",
+      "name": "MTA Glow",
+      "category": "Music Video Looks",
+      "category_id": "music_video_looks",
+      "variant": 0,
+      "description": "Stylized, dramatic, high-impact looks inspired by music video grading",
+      "mood": "Dynamic, stylized, intense",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Pop_Star_001.cube",
+      "name": "Pop Star",
+      "category": "Music Video Looks",
+      "category_id": "music_video_looks",
+      "variant": 1,
+      "description": "Stylized, dramatic, high-impact looks inspired by music video grading",
+      "mood": "Dynamic, stylized, intense",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Rhythm_Light_002.cube",
+      "name": "Rhythm Light",
+      "category": "Music Video Looks",
+      "category_id": "music_video_looks",
+      "variant": 2,
+      "description": "Stylized, dramatic, high-impact looks inspired by music video grading",
+      "mood": "Dynamic, stylized, intense",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Stage_Blaze_003.cube",
+      "name": "Stage Blaze",
+      "category": "Music Video Looks",
+      "category_id": "music_video_looks",
+      "variant": 3,
+      "description": "Stylized, dramatic, high-impact looks inspired by music video grading",
+      "mood": "Dynamic, stylized, intense",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Beat_Drop_004.cube",
+      "name": "Beat Drop",
+      "category": "Music Video Looks",
+      "category_id": "music_video_looks",
+      "variant": 4,
+      "description": "Stylized, dramatic, high-impact looks inspired by music video grading",
+      "mood": "Dynamic, stylized, intense",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Product_Prime_000.cube",
+      "name": "Product Prime",
+      "category": "Commercial Luxury",
+      "category_id": "commercial_luxury",
+      "variant": 0,
+      "description": "Polished, professional, product-ready aesthetic for commercial work",
+      "mood": "Clean, premium, sharp",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Brand_Luxe_001.cube",
+      "name": "Brand Luxe",
+      "category": "Commercial Luxury",
+      "category_id": "commercial_luxury",
+      "variant": 1,
+      "description": "Polished, professional, product-ready aesthetic for commercial work",
+      "mood": "Clean, premium, sharp",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Commercial_Gold_002.cube",
+      "name": "Commercial Gold",
+      "category": "Commercial Luxury",
+      "category_id": "commercial_luxury",
+      "variant": 2,
+      "description": "Polished, professional, product-ready aesthetic for commercial work",
+      "mood": "Clean, premium, sharp",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Retail_Glow_003.cube",
+      "name": "Retail Glow",
+      "category": "Commercial Luxury",
+      "category_id": "commercial_luxury",
+      "variant": 3,
+      "description": "Polished, professional, product-ready aesthetic for commercial work",
+      "mood": "Clean, premium, sharp",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Market_Master_004.cube",
+      "name": "Market Master",
+      "category": "Commercial Luxury",
+      "category_id": "commercial_luxury",
+      "variant": 4,
+      "description": "Polished, professional, product-ready aesthetic for commercial work",
+      "mood": "Clean, premium, sharp",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Stream_Queen_000.cube",
+      "name": "Stream Queen",
+      "category": "Netflix Inspired",
+      "category_id": "netflix_inspired",
+      "variant": 0,
+      "description": "Cinematic teal/orange with filmic qualities inspired by streaming content",
+      "mood": "Cinematic, binge-worthy, polished",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Binge_Night_001.cube",
+      "name": "Binge Night",
+      "category": "Netflix Inspired",
+      "category_id": "netflix_inspired",
+      "variant": 1,
+      "description": "Cinematic teal/orange with filmic qualities inspired by streaming content",
+      "mood": "Cinematic, binge-worthy, polished",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Teal_Drama_002.cube",
+      "name": "Teal Drama",
+      "category": "Netflix Inspired",
+      "category_id": "netflix_inspired",
+      "variant": 2,
+      "description": "Cinematic teal/orange with filmic qualities inspired by streaming content",
+      "mood": "Cinematic, binge-worthy, polished",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Series_Glow_003.cube",
+      "name": "Series Glow",
+      "category": "Netflix Inspired",
+      "category_id": "netflix_inspired",
+      "variant": 3,
+      "description": "Cinematic teal/orange with filmic qualities inspired by streaming content",
+      "mood": "Cinematic, binge-worthy, polished",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Episode_One_004.cube",
+      "name": "Episode One",
+      "category": "Netflix Inspired",
+      "category_id": "netflix_inspired",
+      "variant": 4,
+      "description": "Cinematic teal/orange with filmic qualities inspired by streaming content",
+      "mood": "Cinematic, binge-worthy, polished",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Hereditary_Mood_000.cube",
+      "name": "Hereditary Mood",
+      "category": "A24 Inspired",
+      "category_id": "a24_inspired",
+      "variant": 0,
+      "description": "Artistic, unconventional, mood-driven looks inspired by A24 films",
+      "mood": "Arthouse, unconventional, evocative",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Moonlight_Glow_001.cube",
+      "name": "Moonlight Glow",
+      "category": "A24 Inspired",
+      "category_id": "a24_inspired",
+      "variant": 1,
+      "description": "Artistic, unconventional, mood-driven looks inspired by A24 films",
+      "mood": "Arthouse, unconventional, evocative",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Midsommar_Haze_002.cube",
+      "name": "Midsommar Haze",
+      "category": "A24 Inspired",
+      "category_id": "a24_inspired",
+      "variant": 2,
+      "description": "Artistic, unconventional, mood-driven looks inspired by A24 films",
+      "mood": "Arthouse, unconventional, evocative",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Ex_Machina_003.cube",
+      "name": "Ex Machina",
+      "category": "A24 Inspired",
+      "category_id": "a24_inspired",
+      "variant": 3,
+      "description": "Artistic, unconventional, mood-driven looks inspired by A24 films",
+      "mood": "Arthouse, unconventional, evocative",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Green_Knight_004.cube",
+      "name": "Green Knight",
+      "category": "A24 Inspired",
+      "category_id": "a24_inspired",
+      "variant": 4,
+      "description": "Artistic, unconventional, mood-driven looks inspired by A24 films",
+      "mood": "Arthouse, unconventional, evocative",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Portra_160_000.cube",
+      "name": "Portra 160",
+      "category": "Kodak Portra Emulation",
+      "category_id": "kodak_portra_emulation",
+      "variant": 0,
+      "description": "Warm skin tones, soft contrast, film grain emulating Kodak Portra stocks",
+      "mood": "Warm, filmic, timeless",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Portra_400_001.cube",
+      "name": "Portra 400",
+      "category": "Kodak Portra Emulation",
+      "category_id": "kodak_portra_emulation",
+      "variant": 1,
+      "description": "Warm skin tones, soft contrast, film grain emulating Kodak Portra stocks",
+      "mood": "Warm, filmic, timeless",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Portra_800_002.cube",
+      "name": "Portra 800",
+      "category": "Kodak Portra Emulation",
+      "category_id": "kodak_portra_emulation",
+      "variant": 2,
+      "description": "Warm skin tones, soft contrast, film grain emulating Kodak Portra stocks",
+      "mood": "Warm, filmic, timeless",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Portra_Warm_003.cube",
+      "name": "Portra Warm",
+      "category": "Kodak Portra Emulation",
+      "category_id": "kodak_portra_emulation",
+      "variant": 3,
+      "description": "Warm skin tones, soft contrast, film grain emulating Kodak Portra stocks",
+      "mood": "Warm, filmic, timeless",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Portra_Skin_004.cube",
+      "name": "Portra Skin",
+      "category": "Kodak Portra Emulation",
+      "category_id": "kodak_portra_emulation",
+      "variant": 4,
+      "description": "Warm skin tones, soft contrast, film grain emulating Kodak Portra stocks",
+      "mood": "Warm, filmic, timeless",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Fuji_Pastel_000.cube",
+      "name": "Fuji Pastel",
+      "category": "Fuji 400H Emulation",
+      "category_id": "fuji_400h_emulation",
+      "variant": 0,
+      "description": "Pastel tones, green shadows, airy feel emulating Fuji Pro 400H",
+      "mood": "Soft, pastel, delicate",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "400H_Soft_001.cube",
+      "name": "400H Soft",
+      "category": "Fuji 400H Emulation",
+      "category_id": "fuji_400h_emulation",
+      "variant": 1,
+      "description": "Pastel tones, green shadows, airy feel emulating Fuji Pro 400H",
+      "mood": "Soft, pastel, delicate",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Pro_Green_002.cube",
+      "name": "Pro Green",
+      "category": "Fuji 400H Emulation",
+      "category_id": "fuji_400h_emulation",
+      "variant": 2,
+      "description": "Pastel tones, green shadows, airy feel emulating Fuji Pro 400H",
+      "mood": "Soft, pastel, delicate",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Fuji_Air_003.cube",
+      "name": "Fuji Air",
+      "category": "Fuji 400H Emulation",
+      "category_id": "fuji_400h_emulation",
+      "variant": 3,
+      "description": "Pastel tones, green shadows, airy feel emulating Fuji Pro 400H",
+      "mood": "Soft, pastel, delicate",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Sakura_Tone_004.cube",
+      "name": "Sakura Tone",
+      "category": "Fuji 400H Emulation",
+      "category_id": "fuji_400h_emulation",
+      "variant": 4,
+      "description": "Pastel tones, green shadows, airy feel emulating Fuji Pro 400H",
+      "mood": "Soft, pastel, delicate",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Alexa_Log_000.cube",
+      "name": "Alexa Log",
+      "category": "ARRI Alexa Look",
+      "category_id": "arri_alexa_look",
+      "variant": 0,
+      "description": "Digital cinema natural skin tones with wide dynamic range emulation",
+      "mood": "Cinematic, natural, professional",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "ARRI_Natural_001.cube",
+      "name": "ARRI Natural",
+      "category": "ARRI Alexa Look",
+      "category_id": "arri_alexa_look",
+      "variant": 1,
+      "description": "Digital cinema natural skin tones with wide dynamic range emulation",
+      "mood": "Cinematic, natural, professional",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Cinema_Skin_002.cube",
+      "name": "Cinema Skin",
+      "category": "ARRI Alexa Look",
+      "category_id": "arri_alexa_look",
+      "variant": 2,
+      "description": "Digital cinema natural skin tones with wide dynamic range emulation",
+      "mood": "Cinematic, natural, professional",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Digital_Film_003.cube",
+      "name": "Digital Film",
+      "category": "ARRI Alexa Look",
+      "category_id": "arri_alexa_look",
+      "variant": 3,
+      "description": "Digital cinema natural skin tones with wide dynamic range emulation",
+      "mood": "Cinematic, natural, professional",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Alexa_Wide_004.cube",
+      "name": "Alexa Wide",
+      "category": "ARRI Alexa Look",
+      "category_id": "arri_alexa_look",
+      "variant": 4,
+      "description": "Digital cinema natural skin tones with wide dynamic range emulation",
+      "mood": "Cinematic, natural, professional",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "800T_Tungsten_000.cube",
+      "name": "800T Tungsten",
+      "category": "CineStill 800T Emulation",
+      "category_id": "cinestill_800t_emulation",
+      "variant": 0,
+      "description": "Tungsten balance, halation glow, night film characteristics",
+      "mood": "Nocturnal, glowing, cinematic",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "CineStill_Night_001.cube",
+      "name": "CineStill Night",
+      "category": "CineStill 800T Emulation",
+      "category_id": "cinestill_800t_emulation",
+      "variant": 1,
+      "description": "Tungsten balance, halation glow, night film characteristics",
+      "mood": "Nocturnal, glowing, cinematic",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Halation_Glow_002.cube",
+      "name": "Halation Glow",
+      "category": "CineStill 800T Emulation",
+      "category_id": "cinestill_800t_emulation",
+      "variant": 2,
+      "description": "Tungsten balance, halation glow, night film characteristics",
+      "mood": "Nocturnal, glowing, cinematic",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Tungsten_Film_003.cube",
+      "name": "Tungsten Film",
+      "category": "CineStill 800T Emulation",
+      "category_id": "cinestill_800t_emulation",
+      "variant": 3,
+      "description": "Tungsten balance, halation glow, night film characteristics",
+      "mood": "Nocturnal, glowing, cinematic",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Night_Still_004.cube",
+      "name": "Night Still",
+      "category": "CineStill 800T Emulation",
+      "category_id": "cinestill_800t_emulation",
+      "variant": 4,
+      "description": "Tungsten balance, halation glow, night film characteristics",
+      "mood": "Nocturnal, glowing, cinematic",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Silver_Keep_000.cube",
+      "name": "Silver Keep",
+      "category": "Bleach Bypass",
+      "category_id": "bleach_bypass",
+      "variant": 0,
+      "description": "Silver retention, high contrast, desaturated bleach bypass film process",
+      "mood": "Gritty, stark, intense",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Bleach_Raw_001.cube",
+      "name": "Bleach Raw",
+      "category": "Bleach Bypass",
+      "category_id": "bleach_bypass",
+      "variant": 1,
+      "description": "Silver retention, high contrast, desaturated bleach bypass film process",
+      "mood": "Gritty, stark, intense",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Skip_Bath_002.cube",
+      "name": "Skip Bath",
+      "category": "Bleach Bypass",
+      "category_id": "bleach_bypass",
+      "variant": 2,
+      "description": "Silver retention, high contrast, desaturated bleach bypass film process",
+      "mood": "Gritty, stark, intense",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Chrome_Grain_003.cube",
+      "name": "Chrome Grain",
+      "category": "Bleach Bypass",
+      "category_id": "bleach_bypass",
+      "variant": 3,
+      "description": "Silver retention, high contrast, desaturated bleach bypass film process",
+      "mood": "Gritty, stark, intense",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Bypass_Hard_004.cube",
+      "name": "Bypass Hard",
+      "category": "Bleach Bypass",
+      "category_id": "bleach_bypass",
+      "variant": 4,
+      "description": "Silver retention, high contrast, desaturated bleach bypass film process",
+      "mood": "Gritty, stark, intense",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Blockbuster_000.cube",
+      "name": "Blockbuster",
+      "category": "Teal & Orange Modern",
+      "category_id": "teal_orange_modern",
+      "variant": 0,
+      "description": "Complementary colors with modern cinematic teal and orange grading",
+      "mood": "Blockbuster, cinematic, contemporary",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Teal_Fire_001.cube",
+      "name": "Teal Fire",
+      "category": "Teal & Orange Modern",
+      "category_id": "teal_orange_modern",
+      "variant": 1,
+      "description": "Complementary colors with modern cinematic teal and orange grading",
+      "mood": "Blockbuster, cinematic, contemporary",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Orange_Wave_002.cube",
+      "name": "Orange Wave",
+      "category": "Teal & Orange Modern",
+      "category_id": "teal_orange_modern",
+      "variant": 2,
+      "description": "Complementary colors with modern cinematic teal and orange grading",
+      "mood": "Blockbuster, cinematic, contemporary",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Modern_Cinema_003.cube",
+      "name": "Modern Cinema",
+      "category": "Teal & Orange Modern",
+      "category_id": "teal_orange_modern",
+      "variant": 3,
+      "description": "Complementary colors with modern cinematic teal and orange grading",
+      "mood": "Blockbuster, cinematic, contemporary",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    },
+    {
+      "filename": "Complementary_004.cube",
+      "name": "Complementary",
+      "category": "Teal & Orange Modern",
+      "category_id": "teal_orange_modern",
+      "variant": 4,
+      "description": "Complementary colors with modern cinematic teal and orange grading",
+      "mood": "Blockbuster, cinematic, contemporary",
+      "lattice_size": 33,
+      "total_entries": 35937,
+      "type": "cube"
+    }
+  ]
+}

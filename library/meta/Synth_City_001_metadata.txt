@@ -1,0 +1,26 @@
+CINEGRADE LAB — LUT Metadata
+==============================
+
+LUT Name:        Synth City
+Category:        Cyberpunk Cinema
+Category ID:     cyberpunk_cinema
+Variant:         2 of 5
+Description:     Cyan/magenta split with high contrast for futuristic cyberpunk visuals
+Mood:            Futuristic, neon, dystopian
+File Format:     3D CUBE LUT (33x33x33)
+Total Entries:   35937
+Generated:       2026-05-21T16:12:28.010848
+Engine:          CINEGRADE LAB Generation Engine v1.0
+
+Technical Specifications:
+  - Lattice: 33x33x33 = 35937 RGB triplets
+  - Bit depth: Floating point 0.0-1.0
+  - Color space: Rec.709 input/output
+  - Compatible: DaVinci Resolve, Premiere Pro, Final Cut Pro, OBS, etc.
+
+Use Case:
+  This LUT is designed for cyan/magenta split with high contrast for futuristic cyberpunk visuals.
+  Apply at 50-100% intensity for best results. Adjust exposure
+  before applying LUT for optimal color rendition.
+
+CINEGRADE LAB — Premium Cinematic Color Tools

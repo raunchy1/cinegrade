@@ -1,0 +1,114 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="CINEGRADE LAB v1.0">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    crs:Version="15.0"
+    crs:ProcessVersion="11.0"
+    crs:Exposure2012="0.1"
+    crs:Contrast2012="25"
+    crs:Highlights2012="-45"
+    crs:Shadows2012="11"
+    crs:Whites2012="-21"
+    crs:Blacks2012="15"
+    crs:Texture="25"
+    crs:Clarity2012="20"
+    crs:Dehaze="25"
+    crs:Vibrance="-30"
+    crs:Saturation="-25"
+    crs:ParametricShadows="0"
+    crs:ParametricDarks="0"
+    crs:ParametricLights="0"
+    crs:ParametricHighlights="0"
+    crs:ParametricShadowSplit="25"
+    crs:ParametricMidtoneSplit="50"
+    crs:ParametricHighlightSplit="75"
+    crs:Sharpness="65"
+    crs:SharpenRadius="1.4"
+    crs:SharpenDetail="35"
+    crs:SharpenEdgeMasking="60"
+    crs:LuminanceSmoothing="0"
+    crs:ColorNoiseReduction="25"
+    crs:HueAdjustmentRed="10"
+    crs:HueAdjustmentOrange="7"
+    crs:HueAdjustmentYellow="-30"
+    crs:HueAdjustmentGreen="35"
+    crs:HueAdjustmentAqua="26"
+    crs:HueAdjustmentBlue="-21"
+    crs:HueAdjustmentPurple="19"
+    crs:HueAdjustmentMagenta="26"
+    crs:SaturationAdjustmentRed="-16"
+    crs:SaturationAdjustmentOrange="-12"
+    crs:SaturationAdjustmentYellow="-30"
+    crs:SaturationAdjustmentGreen="-35"
+    crs:SaturationAdjustmentAqua="-25"
+    crs:SaturationAdjustmentBlue="-16"
+    crs:SaturationAdjustmentPurple="-25"
+    crs:SaturationAdjustmentMagenta="-25"
+    crs:LuminanceAdjustmentRed="-7"
+    crs:LuminanceAdjustmentOrange="12"
+    crs:LuminanceAdjustmentYellow="-7"
+    crs:LuminanceAdjustmentGreen="-21"
+    crs:LuminanceAdjustmentAqua="-14"
+    crs:LuminanceAdjustmentBlue="-21"
+    crs:LuminanceAdjustmentPurple="-7"
+    crs:LuminanceAdjustmentMagenta="0"
+    crs:SplitToningShadowHue="230"
+    crs:SplitToningShadowSaturation="18"
+    crs:SplitToningHighlightHue="65"
+    crs:SplitToningHighlightSaturation="18"
+    crs:SplitToningBalance="50"
+    crs:ColorGradeShadowLum="-12"
+    crs:ColorGradeShadowHue="230"
+    crs:ColorGradeShadowSat="16"
+    crs:ColorGradeMidtoneLum="0"
+    crs:ColorGradeMidtoneHue="65"
+    crs:ColorGradeMidtoneSat="7"
+    crs:ColorGradeHighlightLum="-7"
+    crs:ColorGradeHighlightHue="70"
+    crs:ColorGradeHighlightSat="16"
+    crs:ColorGradeBlending="50"
+    crs:ColorGradeGlobalLum="0"
+    crs:ColorGradeGlobalHue="0"
+    crs:ColorGradeGlobalSat="0"
+    crs:ColorGradeShadowsColor="230, 16"
+    crs:ColorGradeMidtonesColor="65, 7"
+    crs:ColorGradeHighlightsColor="70, 16"
+    crs:ColorGradeBalance="0.5"
+    crs:GrainAmount="70"
+    crs:GrainSize="50"
+    crs:GrainFrequency="80"
+    crs:PostCropVignetteAmount="-30"
+    crs:PostCropVignetteMidpoint="50"
+    crs:PostCropVignetteFeather="70"
+    crs:PostCropVignetteRoundness="0"
+    crs:PostCropVignetteStyle="1"
+    crs:ToneCurveName2012="Custom"
+    crs:ToneCurvePV2012="0/5, 32/31, 64/64, 128/128, 192/184, 255/235"
+    crs:ToneCurvePV2012Red="0/5, 32/31, 64/64, 128/128, 192/184, 255/235"
+    crs:ToneCurvePV2012Green="0/5, 32/31, 64/64, 128/128, 192/184, 255/235"
+    crs:ToneCurvePV2012Blue="0/5, 32/31, 64/64, 128/128, 192/184, 255/235"
+    crs:HasSettings="True"
+    crs:CropConstrainToWarp="0">
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Midsommar Haze</rdf:li>
+    </rdf:Alt>
+   </dc:title>
+   <dc:description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Artistic, unconventional, mood-driven looks inspired by A24 films — CINEGRADE LAB Premium Preset. Mood: Arthouse, unconventional, evocative. Variant 2.</rdf:li>
+    </rdf:Alt>
+   </dc:description>
+   <dc:subject>
+    <rdf:Bag>
+     <rdf:li>cinematic</rdf:li>
+     <rdf:li>a24 inspired</rdf:li>
+     <rdf:li>cinegrade</rdf:li>
+     <rdf:li>premium</rdf:li>
+     <rdf:li>arthouse</rdf:li>
+    </rdf:Bag>
+   </dc:subject>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

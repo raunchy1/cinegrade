@@ -1,0 +1,114 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="CINEGRADE LAB v1.0">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    crs:Version="15.0"
+    crs:ProcessVersion="11.0"
+    crs:Exposure2012="0.2"
+    crs:Contrast2012="20"
+    crs:Highlights2012="-45"
+    crs:Shadows2012="30"
+    crs:Whites2012="-4"
+    crs:Blacks2012="-11"
+    crs:Texture="30"
+    crs:Clarity2012="25"
+    crs:Dehaze="20"
+    crs:Vibrance="11"
+    crs:Saturation="-11"
+    crs:ParametricShadows="0"
+    crs:ParametricDarks="0"
+    crs:ParametricLights="0"
+    crs:ParametricHighlights="0"
+    crs:ParametricShadowSplit="25"
+    crs:ParametricMidtoneSplit="50"
+    crs:ParametricHighlightSplit="75"
+    crs:Sharpness="70"
+    crs:SharpenRadius="1.2"
+    crs:SharpenDetail="40"
+    crs:SharpenEdgeMasking="65"
+    crs:LuminanceSmoothing="0"
+    crs:ColorNoiseReduction="25"
+    crs:HueAdjustmentRed="7"
+    crs:HueAdjustmentOrange="7"
+    crs:HueAdjustmentYellow="-14"
+    crs:HueAdjustmentGreen="19"
+    crs:HueAdjustmentAqua="12"
+    crs:HueAdjustmentBlue="-12"
+    crs:HueAdjustmentPurple="12"
+    crs:HueAdjustmentMagenta="14"
+    crs:SaturationAdjustmentRed="7"
+    crs:SaturationAdjustmentOrange="7"
+    crs:SaturationAdjustmentYellow="-7"
+    crs:SaturationAdjustmentGreen="-16"
+    crs:SaturationAdjustmentAqua="-7"
+    crs:SaturationAdjustmentBlue="-7"
+    crs:SaturationAdjustmentPurple="-16"
+    crs:SaturationAdjustmentMagenta="-16"
+    crs:LuminanceAdjustmentRed="7"
+    crs:LuminanceAdjustmentOrange="16"
+    crs:LuminanceAdjustmentYellow="12"
+    crs:LuminanceAdjustmentGreen="0"
+    crs:LuminanceAdjustmentAqua="7"
+    crs:LuminanceAdjustmentBlue="-7"
+    crs:LuminanceAdjustmentPurple="0"
+    crs:LuminanceAdjustmentMagenta="7"
+    crs:SplitToningShadowHue="230"
+    crs:SplitToningShadowSaturation="12"
+    crs:SplitToningHighlightHue="51"
+    crs:SplitToningHighlightSaturation="14"
+    crs:SplitToningBalance="65"
+    crs:ColorGradeShadowLum="-7"
+    crs:ColorGradeShadowHue="230"
+    crs:ColorGradeShadowSat="12"
+    crs:ColorGradeMidtoneLum="7"
+    crs:ColorGradeMidtoneHue="51"
+    crs:ColorGradeMidtoneSat="7"
+    crs:ColorGradeHighlightLum="7"
+    crs:ColorGradeHighlightHue="54"
+    crs:ColorGradeHighlightSat="12"
+    crs:ColorGradeBlending="50"
+    crs:ColorGradeGlobalLum="0"
+    crs:ColorGradeGlobalHue="0"
+    crs:ColorGradeGlobalSat="0"
+    crs:ColorGradeShadowsColor="230, 12"
+    crs:ColorGradeMidtonesColor="51, 7"
+    crs:ColorGradeHighlightsColor="54, 12"
+    crs:ColorGradeBalance="0.6100000000000001"
+    crs:GrainAmount="26"
+    crs:GrainSize="31"
+    crs:GrainFrequency="70"
+    crs:PostCropVignetteAmount="-16"
+    crs:PostCropVignetteMidpoint="65"
+    crs:PostCropVignetteFeather="80"
+    crs:PostCropVignetteRoundness="0"
+    crs:PostCropVignetteStyle="1"
+    crs:ToneCurveName2012="Custom"
+    crs:ToneCurvePV2012="0/0, 32/31, 64/62, 128/128, 192/191, 255/255"
+    crs:ToneCurvePV2012Red="0/0, 32/31, 64/62, 128/128, 192/191, 255/255"
+    crs:ToneCurvePV2012Green="0/0, 32/31, 64/62, 128/128, 192/191, 255/255"
+    crs:ToneCurvePV2012Blue="0/0, 32/31, 64/62, 128/128, 192/191, 255/255"
+    crs:HasSettings="True"
+    crs:CropConstrainToWarp="0">
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Cinema Skin</rdf:li>
+    </rdf:Alt>
+   </dc:title>
+   <dc:description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Digital cinema natural skin tones with wide dynamic range emulation — CINEGRADE LAB Premium Preset. Mood: Cinematic, natural, professional. Variant 2.</rdf:li>
+    </rdf:Alt>
+   </dc:description>
+   <dc:subject>
+    <rdf:Bag>
+     <rdf:li>cinematic</rdf:li>
+     <rdf:li>arri alexa look</rdf:li>
+     <rdf:li>cinegrade</rdf:li>
+     <rdf:li>premium</rdf:li>
+     <rdf:li>cinematic</rdf:li>
+    </rdf:Bag>
+   </dc:subject>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

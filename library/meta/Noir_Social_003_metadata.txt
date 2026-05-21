@@ -1,0 +1,26 @@
+CINEGRADE LAB — LUT Metadata
+==============================
+
+LUT Name:        Noir Social
+Category:        Dark Instagram Mood
+Category ID:     dark_instagram_mood
+Variant:         4 of 5
+Description:     Desaturated, crushed blacks, cool tones for social media aesthetics
+Mood:            Moody, cool, modern
+File Format:     3D CUBE LUT (33x33x33)
+Total Entries:   35937
+Generated:       2026-05-21T16:12:36.719174
+Engine:          CINEGRADE LAB Generation Engine v1.0
+
+Technical Specifications:
+  - Lattice: 33x33x33 = 35937 RGB triplets
+  - Bit depth: Floating point 0.0-1.0
+  - Color space: Rec.709 input/output
+  - Compatible: DaVinci Resolve, Premiere Pro, Final Cut Pro, OBS, etc.
+
+Use Case:
+  This LUT is designed for desaturated, crushed blacks, cool tones for social media aesthetics.
+  Apply at 50-100% intensity for best results. Adjust exposure
+  before applying LUT for optimal color rendition.
+
+CINEGRADE LAB — Premium Cinematic Color Tools
